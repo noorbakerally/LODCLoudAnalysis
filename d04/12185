@@ -1,0 +1,10 @@
+http://rdfs.org/ns/void#Dataset
+http://rdfs.org/sioc/ns#User
+http://rdfs.org/sioc/services#Services
+http://rdfs.org/semradar/semradar.xpi
+http://rdfs.org/sioc/types#Comment
+http://rdfs.org/sioc/ns#Post
+http://rdfs.org/sioc/services#Service
+http://rdfs.org/sioc/types#Calendar
+http://rdfs.org/sioc/types#Weblog
+http://rdfs.org/sioc/types#Wiki

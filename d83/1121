@@ -1,0 +1,7 @@
+http://gohelle.cirad.fr:8080/BioSemantic_webapp/services/get_medoc_gramene_marker_ontology_concept_term_identifier?wsdl
+http://gohelle.cirad.fr:8080/BioSemantic_webapp/services/get_medoc_gramene_marker_identifier_sequence_position?wsdl
+http://gohelle.cirad.fr:8080/BioSemantic_webapp/services/get_medoc_gramene_marker_identifier_chromosome_name?wsdl
+http://gohelle.cirad.fr:8080/BioSemantic_webapp/services/get_medoc_gramene_marker_identifier_sequence_accession?wsdl
+http://gohelle.cirad.fr:8080/BioSemantic_webapp/services/get_medoc_TROPGENE_RICE_ontology_concept_term_quantitative_trait_locus?wsdl
+http://gohelle.cirad.fr:8080/BioSemantic_webapp/services/get_medoc_TROPGENE_RICE_quantitative_trait_locus_chromosome_name?wsdl
+http://gohelle.cirad.fr:8080/BioSemantic_webapp/services/get_medoc_TROPGENE_RICE_quantitative_trait_locus_sequence_position?wsdl

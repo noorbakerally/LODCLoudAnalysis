@@ -1,0 +1,9 @@
+http://rdf.adaptivedisclosure.org/owl/BioAID/myModel/Proto-ontology/Workflow.owl
+http://rdf.adaptivedisclosure.org/owl/BioAID/myModel/Proto-ontology/TextMining.owl
+http://rdf.adaptivedisclosure.org/owl/BioAID/myModel/Proto-ontology/Text.owl
+http://rdf.adaptivedisclosure.org/owl/BioAID/myModel/Proto-ontology/MappingBioTextMining.owl
+http://rdf.adaptivedisclosure.org/owl/BioAID/myModel/Proto-ontology/BioModel.owl
+http://rdf.adaptivedisclosure.org/owl/BioAID/myModel/Proto-ontology/BioAnnotations.owl
+http://rdf.adaptivedisclosure.org/owl/BioAID/myModel/Proto-ontology/AIDA_Instances.owl
+http://rdf.adaptivedisclosure.org/owl/BioAID/myModel/Enriched-ontology/BioAID_Instances.owl
+http://rdf.adaptivedisclosure.org/owl/BioAID/myModel/Enriched-ontology/ExampleInstances.owl

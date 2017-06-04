@@ -1,0 +1,10 @@
+http://rdf.myexperiment.org/ontologies/base/count
+http://rdf.myexperiment.org/ontologies/base/Annotation
+http://rdf.myexperiment.org/ontologies/base/
+http://rdf.myexperiment.org/ontologies/base/Request
+http://rdf.myexperiment.org/ontologies/base/Announcement
+http://rdf.myexperiment.org/ontologies/base/Contribution
+http://rdf.myexperiment.org/ontologies/base/Message
+http://rdf.myexperiment.org/ontologies/base/Submission
+http://rdf.myexperiment.org/ontologies/base/has-annotator
+http://rdf.myexperiment.org/ontologies/base/annotates

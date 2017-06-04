@@ -1,0 +1,2 @@
+http://sdmxws.imf.org/RestSDMX2/sdmx.ashx/GetData?dataflow=MBLD&key=MX&format=generic_v2
+http://sdmxws.imf.org/RestSDMX2/sdmx.ashx/GetKeyFamily/MBLD/IMF/?resolveRef=true

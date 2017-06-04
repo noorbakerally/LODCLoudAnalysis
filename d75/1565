@@ -1,0 +1,5 @@
+http://data.bibbase.org/data/authorship/13033
+http://data.bibbase.org/ontology/#Authorship
+http://data.bibbase.org/pub/dbpedia-a-nucleus-for-a-web-of-open-data-swiswcaswciabkn2007
+http://data.bibbase.org/author/georgi-kobilarov
+http://data.bibbase.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fdata.bibbase.org%2Fontology%2F%23Authorship%3E

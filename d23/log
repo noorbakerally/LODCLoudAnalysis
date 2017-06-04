@@ -1,0 +1,1081 @@
+Error: Triple:12926
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0297.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0297.rdf> .'
+
+Error: Triple:31864
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/9003.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/9003.rdf> .'
+
+Error: Triple:32848
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0567.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0567.rdf> .'
+
+Error: Triple:35777
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/dataset/amenities.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/dataset/amenities.rdf> .'
+
+Error: Triple:80203
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/21.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/21.rdf> .'
+
+Error: Triple:81281
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0298.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0298.rdf> .'
+
+Error: Triple:101127
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0274.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0274.rdf> .'
+
+Error: Triple:105221
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/9560.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/9560.rdf> .'
+
+Error: Triple:107453
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN-GB <http://data.southampton.ac.uk/mfd/1811643268.rdf> .):
+u'<http://id.southampton.ac.uk/point-of-service/65-avenue> <http://purl.org/openorg/ukfhrsRatingKey> "fhrs_5_en-GB"@EN-GB <http://data.southampton.ac.uk/mfd/1811643268.rdf> .'
+
+Error: Triple:112016
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN-GB <http://data.southampton.ac.uk/mfd/1811637595.rdf> .):
+u'<http://id.southampton.ac.uk/point-of-service/68-cafe> <http://purl.org/openorg/ukfhrsRatingKey> "fhrs_5_en-GB"@EN-GB <http://data.southampton.ac.uk/mfd/1811637595.rdf> .'
+
+Error: Triple:112417
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN-GB <http://data.southampton.ac.uk/mfd/1811637595.rdf> .):
+u'<http://id.southampton.ac.uk/point-of-service/68-lattes> <http://purl.org/openorg/ukfhrsRatingKey> "fhrs_5_en-GB"@EN-GB <http://data.southampton.ac.uk/mfd/1811637595.rdf> .'
+
+Error: Triple:116356
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN-GB <http://data.southampton.ac.uk/point-of-service/284a-broadlands-road.rdf> .):
+u'<http://id.southampton.ac.uk/point-of-service/284a-broadlands-road> <http://purl.org/openorg/ukfhrsRatingKey> "fhrs_5_en-GB"@EN-GB <http://data.southampton.ac.uk/point-of-service/284a-broadlands-road.rdf> .'
+
+Error: Triple:126031
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0012.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0012.rdf> .'
+
+Error: Triple:126258
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/60.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/60.rdf> .'
+
+Error: Triple:127502
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0394.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0394.rdf> .'
+
+Error: Triple:139300
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/1604.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/1604.rdf> .'
+
+Error: Triple:140445
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0574.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0574.rdf> .'
+
+Error: Triple:142938
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/76E.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/76E.rdf> .'
+
+Error: Triple:145173
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/61.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/61.rdf> .'
+
+Error: Triple:146982
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/1423.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/1423.rdf> .'
+
+Error: Triple:147776
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/9019.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/9019.rdf> .'
+
+Error: Triple:154840
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0340.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0340.rdf> .'
+
+Error: Triple:156174
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/dataset/blog.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/dataset/blog.rdf> .'
+
+Error: Triple:171294
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0570.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0570.rdf> .'
+
+Error: Triple:187049
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0438.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0438.rdf> .'
+
+Error: Triple:187308
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/facility/F0022.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/facility/F0022.rdf> .'
+
+Error: Triple:188865
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/1601.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/1601.rdf> .'
+
+Error: Triple:190644
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0366.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0366.rdf> .'
+
+Error: Triple:193233
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0530.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0530.rdf> .'
+
+Error: Triple:197742
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0263.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0263.rdf> .'
+
+Error: Triple:197934
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/72D-N.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/72D-N.rdf> .'
+
+Error: Triple:201533
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0592.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0592.rdf> .'
+
+Error: Triple:203643
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0601.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0601.rdf> .'
+
+Error: Triple:205435
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/facility/F0063.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/facility/F0063.rdf> .'
+
+Error: Triple:205753
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0095.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0095.rdf> .'
+
+Error: Triple:206402
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0539.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0539.rdf> .'
+
+Error: Triple:207791
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0373.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0373.rdf> .'
+
+Error: Triple:208983
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/20.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/20.rdf> .'
+
+Error: Triple:212815
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/facility/F0064.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/facility/F0064.rdf> .'
+
+Error: Triple:213130
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/89.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/89.rdf> .'
+
+Error: Triple:216359
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0327.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0327.rdf> .'
+
+Error: Triple:218742
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0009.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0009.rdf> .'
+
+Error: Triple:219145
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/73N-A.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/73N-A.rdf> .'
+
+Error: Triple:220474
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0044.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0044.rdf> .'
+
+Error: Triple:220979
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/1107.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/1107.rdf> .'
+
+Error: Triple:228118
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0548.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0548.rdf> .'
+
+Error: Triple:233034
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/1.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/1.rdf> .'
+
+Error: Triple:237059
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/72D-P.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/72D-P.rdf> .'
+
+Error: Triple:240930
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/1602.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/1602.rdf> .'
+
+Error: Triple:241807
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/73N-H.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/73N-H.rdf> .'
+
+Error: Triple:247762
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0338.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0338.rdf> .'
+
+Error: Triple:252344
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/81C.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/81C.rdf> .'
+
+Error: Triple:253335
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/94G.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/94G.rdf> .'
+
+Error: Triple:253502
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0254.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0254.rdf> .'
+
+Error: Triple:254787
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0556.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0556.rdf> .'
+
+Error: Triple:257065
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0097.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0097.rdf> .'
+
+Error: Triple:259651
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0547.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0547.rdf> .'
+
+Error: Triple:260569
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/76V.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/76V.rdf> .'
+
+Error: Triple:274822
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0356.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0356.rdf> .'
+
+Error: Triple:282105
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0329.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0329.rdf> .'
+
+Error: Triple:284117
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/9561.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/9561.rdf> .'
+
+Error: Triple:285416
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/44A.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/44A.rdf> .'
+
+Error: Triple:290840
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0325.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0325.rdf> .'
+
+Error: Triple:291014
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/44B.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/44B.rdf> .'
+
+Error: Triple:291322
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0352.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0352.rdf> .'
+
+Error: Triple:291823
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/dataset/edshare.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/dataset/edshare.rdf> .'
+
+Error: Triple:295162
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/94H.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/94H.rdf> .'
+
+Error: Triple:297898
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/1730-06.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/1730-06.rdf> .'
+
+Error: Triple:323178
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/dataset/data-catalog.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/dataset/data-catalog.rdf> .'
+
+Error: Triple:341140
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/dataset/apps.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/dataset/apps.rdf> .'
+
+Error: Triple:404812
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/dataset/org.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/dataset/org.rdf> .'
+
+Error: Triple:494142
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0561.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0561.rdf> .'
+
+Error: Triple:494286
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/equipment/E0675.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/equipment/E0675.rdf> .'
+
+Error: Triple:496254
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/1502.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/1502.rdf> .'
+
+Error: Triple:620784
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 64, in parse
+    self.parseline()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 81, in parseline
+    obj = self.object()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/ntriples.py", line 228, in object
+    objt = self.uriref() or self.nodeid() or self.literal()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/ntriples.py", line 238, in uriref
+    return URI(uri)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/term.py", line 224, in __new__
+    logger.warning('%s does not look like a valid URI, trying to serialize this will break.'%value)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1164, in warning
+    self._log(WARNING, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1271, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1281, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1328, in callHandlers
+    " \"%s\"\n" % self.name)
+IOError: [Errno 5] Input/output error
+
+Error: Triple:1873238
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.archiveshub.ac.uk/data/project/locah> .):
+u'<http://data.archiveshub.ac.uk/id/project/locah> <http://usefulinc.com/ns/doap#description> "LOCAH is a project funded by JISC under the jiscEXPO strand of its Information Environment programme. The main aims of the project are to make available data from the Archives Hub and from Copac in the form of Linked Data. The participants in the project are Mimas, UKOLN, Eduserv, Talis, and OCLC. The project runs from August 2010 until July 2011."@EN <http://data.archiveshub.ac.uk/data/project/locah> .'
+
+Error: Triple:1873239
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.archiveshub.ac.uk/data/project/locah> .):
+u'<http://data.archiveshub.ac.uk/id/project/locah> <http://xmlns.com/foaf/0.1/name> "LOCAH Project"@EN <http://data.archiveshub.ac.uk/data/project/locah> .'
+
+Error: Triple:1873240
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.archiveshub.ac.uk/data/project/locah> .):
+u'<http://data.archiveshub.ac.uk/id/project/locah> <http://purl.org/dc/terms/description> "LOCAH is a project funded by JISC under the jiscEXPO strand of its Information Environment programme. The main aims of the project are to make available data from the Archives Hub and from Copac in the form of Linked Data. The participants in the project are Mimas, UKOLN, Eduserv, Talis, and OCLC. The project runs from August 2010 until July 2011."@EN <http://data.archiveshub.ac.uk/data/project/locah> .'
+
+Error: Triple:1873244
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.archiveshub.ac.uk/data/project/locah> .):
+u'<http://data.archiveshub.ac.uk/id/project/locah> <http://www.w3.org/2000/01/rdf-schema#comment> "LOCAH is a project funded by JISC under the jiscEXPO strand of its Information Environment programme. The main aims of the project are to make available data from the Archives Hub and from Copac in the form of Linked Data. The participants in the project are Mimas, UKOLN, Eduserv, Talis, and OCLC. The project runs from August 2010 until July 2011."@EN <http://data.archiveshub.ac.uk/data/project/locah> .'
+
+Error: Triple:1873250
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.archiveshub.ac.uk/data/project/locah> .):
+u'<http://data.archiveshub.ac.uk/id/project/locah> <http://purl.org/dc/terms/title> "LOCAH Project"@EN <http://data.archiveshub.ac.uk/data/project/locah> .'
+
+Error: Triple:1873254
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.archiveshub.ac.uk/data/project/locah> .):
+u'<http://data.archiveshub.ac.uk/id/project/locah> <http://www.w3.org/2004/02/skos/core#prefLabel> "LOCAH Project"@EN <http://data.archiveshub.ac.uk/data/project/locah> .'
+
+Error: Triple:1873258
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.archiveshub.ac.uk/data/project/locah> .):
+u'<http://data.archiveshub.ac.uk/id/project/locah> <http://www.w3.org/2000/01/rdf-schema#label> "LOCAH Project"@EN <http://data.archiveshub.ac.uk/data/project/locah> .'
+

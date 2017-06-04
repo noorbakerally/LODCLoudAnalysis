@@ -1,0 +1,1859 @@
+Error: Triple:632542
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/41.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/41.rdf> .'
+
+Error: Triple:654682
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/1222.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/1222.rdf> .'
+
+Error: Triple:764253
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/1730-34.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/1730-34.rdf> .'
+
+Error: Triple:803958
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/16.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/16.rdf> .'
+
+Error: Triple:816794
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/79A.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/79A.rdf> .'
+
+Error: Triple:854854
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/95.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/95.rdf> .'
+
+Error: Triple:863258
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/1730-40.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/1730-40.rdf> .'
+
+Error: Triple:923451
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/org/FP.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/org/FP.rdf> .'
+
+Error: Triple:924319
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/53.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/53.rdf> .'
+
+Error: Triple:1006998
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at * <http://data.southampton.ac.uk/syllabus/room-feature/003203077/RSC-_DISABLED_ACCESS_-_AUDIENCE_(B)_Upper_Floor_Room_Egress_Standard_Lift_&_Evac_Management_Plan.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F003203077x2FRSCx2Dx5FDISABLEDx5FACCESSx5Fx2Dx5FAUDIENCEx5Fx28Bx29x5FUpperx5FFloorx5FRoomx5FEgressx5FStandardx5FLiftx5Fx26x5FEvacx5FManagementx5FPlanx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F003203077x2FRSCx2Dx5FDISABLEDx5FACCESSx5Fx2Dx5FAUDIENCEx5Fx28Bx29x5FUpperx5FFloorx5FRoomx5FEgressx5FStandardx5FLiftx5Fx26x5FEvacx5FManagementx5FPlanx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/003203077/RSC-_DISABLED_ACCESS_-_AUDIENCE_(B)_Upper_Floor_Room_Egress_Standard_Lift_&_Evac_Management_Plan.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1007032
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F003203077x2FRSCx2Dx5FDISABLEDx5FACCESSx5Fx2Dx5FAUDIENCEx5Fx28Bx29x5FUpperx5FFloorx5FRoomx5FEgressx5FStandardx5FLiftx5Fx26x5FEvacx5FManagementx5FPlanx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/003203077/RSC-_DISABLED_ACCESS_-_AUDIENCE_(B)_Upper_Floor_Room_Egress_Standard_Lift_&_Evac_Management_Plan.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1007032
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F003203077x2FRSCx2Dx5FDISABLEDx5FACCESSx5Fx2Dx5FAUDIENCEx5Fx28Bx29x5FUpperx5FFloorx5FRoomx5FEgressx5FStandardx5FLiftx5Fx26x5FEvacx5FManagementx5FPlanx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/003203077/RSC-_DISABLED_ACCESS_-_AUDIENCE_(B)_Upper_Floor_Room_Egress_Standard_Lift_&_Evac_Management_Plan.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1069495
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/70CC.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/70CC.rdf> .'
+
+Error: Triple:1090085
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/1410.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/1410.rdf> .'
+
+Error: Triple:1151229
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/72D-M.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/72D-M.rdf> .'
+
+Error: Triple:1224664
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/org/F1.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/org/F1.rdf> .'
+
+Error: Triple:1224937
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#61010_100> <http://www.w3.org/2000/01/rdf-schema#label> "Up to 11.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1224949
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#61010_110> <http://www.w3.org/2000/01/rdf-schema#label> "12 - 17.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1224961
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#61010_120> <http://www.w3.org/2000/01/rdf-schema#label> "18 - 23.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1224973
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#61010_130> <http://www.w3.org/2000/01/rdf-schema#label> "24 - 29.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1224985
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#61010_140> <http://www.w3.org/2000/01/rdf-schema#label> "30 - 35.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1224997
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#61010_150> <http://www.w3.org/2000/01/rdf-schema#label> "36 - 44.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225009
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#61010_160> <http://www.w3.org/2000/01/rdf-schema#label> "45 - 59.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225021
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#61010_170> <http://www.w3.org/2000/01/rdf-schema#label> "60 - 74.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225033
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#61010_180> <http://www.w3.org/2000/01/rdf-schema#label> "75 and over"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225045
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#61010_199> <http://www.w3.org/2000/01/rdf-schema#label> "Unspecified"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225057
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#61010_200> <http://www.w3.org/2000/01/rdf-schema#label> "Up to 5.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225069
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#61010_210> <http://www.w3.org/2000/01/rdf-schema#label> "6 - 11.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225081
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#61010_250> <http://www.w3.org/2000/01/rdf-schema#label> "30 and over"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225093
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#61010_380> <http://www.w3.org/2000/01/rdf-schema#label> "75 - 99.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225105
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#61010_390> <http://www.w3.org/2000/01/rdf-schema#label> "100 and over"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225117
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#62020_1901> <http://www.w3.org/2000/01/rdf-schema#label> "0-0.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225129
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#62020_1902> <http://www.w3.org/2000/01/rdf-schema#label> "1-24.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225141
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#62020_1903> <http://www.w3.org/2000/01/rdf-schema#label> "25-49.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225153
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#62020_1904> <http://www.w3.org/2000/01/rdf-schema#label> "50-99.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225165
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#62020_1905> <http://www.w3.org/2000/01/rdf-schema#label> "100-149.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225177
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#62020_1906> <http://www.w3.org/2000/01/rdf-schema#label> "150-249.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225189
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#62020_1907> <http://www.w3.org/2000/01/rdf-schema#label> "250-499.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225201
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#62020_1908> <http://www.w3.org/2000/01/rdf-schema#label> "500-999.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225213
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#62020_1909> <http://www.w3.org/2000/01/rdf-schema#label> "1000-1999.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225225
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#62020_1910> <http://www.w3.org/2000/01/rdf-schema#label> "2000-3999.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225237
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#62020_1911> <http://www.w3.org/2000/01/rdf-schema#label> "4000-9999.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225249
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#62020_1912> <http://www.w3.org/2000/01/rdf-schema#label> "10000-99999.9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225261
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_10> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225279
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_100> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers cong\\u00E9lateurs"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225297
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_1000> <http://www.w3.org/2000/01/rdf-schema#label> "Set netters"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225315
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_110> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers de p\\u00EAche fra\\u00EEche"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225333
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_120> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers \\u00E0 perche"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225378
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_130> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers nca"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225396
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_140> <http://www.w3.org/2000/01/rdf-schema#label> "Senneurs \\u00E0 senne coulissante"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225414
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_150> <http://www.w3.org/2000/01/rdf-schema#label> "Thonniers-senneurs"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225432
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_160> <http://www.w3.org/2000/01/rdf-schema#label> "Senneurs \\u00E0 senne coulissante nca"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225450
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_180> <http://www.w3.org/2000/01/rdf-schema#label> "Senneurs \\u00E0 senne de fond"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225468
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_190> <http://www.w3.org/2000/01/rdf-schema#label> "Senneurs nca"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225486
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_20> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers lat\\u00E9raux"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225504
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_200> <http://www.w3.org/2000/01/rdf-schema#label> "Tr\\u00E9mailleurs"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225522
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_210> <http://www.w3.org/2000/01/rdf-schema#label> "Drifters"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225540
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_220> <http://www.w3.org/2000/01/rdf-schema#label> "Tr\\u00E9mailleurs nca"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225558
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_230> <http://www.w3.org/2000/01/rdf-schema#label> "Navires pour pi\\u00E8ges"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225576
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_240> <http://www.w3.org/2000/01/rdf-schema#label> "Caseyeurs"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225594
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_250> <http://www.w3.org/2000/01/rdf-schema#label> "Navires pour pi\\u00E8ges nca"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225612
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_260> <http://www.w3.org/2000/01/rdf-schema#label> "Palangriers"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225630
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_270> <http://www.w3.org/2000/01/rdf-schema#label> "Palangriers cong\\u00E9lateurs"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225648
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_280> <http://www.w3.org/2000/01/rdf-schema#label> "Palangriers usines"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225666
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_290> <http://www.w3.org/2000/01/rdf-schema#label> "Palangriers de p\\u00EAche fra\\u00EEche"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225684
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_30> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers p\\u00EAche arri\\u00E8re"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225702
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_300> <http://www.w3.org/2000/01/rdf-schema#label> "Thoniers-palangriers"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225720
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_310> <http://www.w3.org/2000/01/rdf-schema#label> "Palangriers nca"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225738
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_330> <http://www.w3.org/2000/01/rdf-schema#label> "Ligneurs \\u00E0 turluttes"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225756
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_340> <http://www.w3.org/2000/01/rdf-schema#label> "Ligneurs \\u00E0 ligne \\u00E0 main"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225774
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_350> <http://www.w3.org/2000/01/rdf-schema#label> "Canneurs"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225792
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_360> <http://www.w3.org/2000/01/rdf-schema#label> "Ligneurs \\u00E0 lignes de tra\\u00EEne"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225810
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_370> <http://www.w3.org/2000/01/rdf-schema#label> "Ligneurs nca"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225828
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_380> <http://www.w3.org/2000/01/rdf-schema#label> "Navires polyvalents"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225871
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_390> <http://www.w3.org/2000/01/rdf-schema#label> "Senneurs-ligneurs (ligne \\u00E0 la main)"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225889
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_40> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers p\\u00EAche arri\\u00E8re usines"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225907
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_400> <http://www.w3.org/2000/01/rdf-schema#label> "Senneurs/chalutiers pelagiques"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225925
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_410> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers-\'Drifters\'"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225943
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_420> <http://www.w3.org/2000/01/rdf-schema#label> "Navires polyvalents nca"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225961
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_430> <http://www.w3.org/2000/01/rdf-schema#label> "Autres navires de p\\u00EAche"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225979
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_440> <http://www.w3.org/2000/01/rdf-schema#label> "Dragueurs"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1225997
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_450> <http://www.w3.org/2000/01/rdf-schema#label> "Dragueurs remorquant une(des) drague(s)"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226015
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_460> <http://www.w3.org/2000/01/rdf-schema#label> "Dragueurs remorquant une drague m\\u00E9canis\\u00E9e"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226055
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_470> <http://www.w3.org/2000/01/rdf-schema#label> "Dragueurs nca"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226073
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_480> <http://www.w3.org/2000/01/rdf-schema#label> "Bateaux p\\u00EAchant au filet soulev\\u00E9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226091
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_490> <http://www.w3.org/2000/01/rdf-schema#label> "Bateaux manoeuvrant un filet soulev\\u00E9"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226109
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_50> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers p\\u00EAche arri\\u00E8re cong\\u00E9lateurs"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226127
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_500> <http://www.w3.org/2000/01/rdf-schema#label> "Bateaux filets soulev\\u00E9s nca"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226145
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_510> <http://www.w3.org/2000/01/rdf-schema#label> "Navires p\\u00EAchant \\u00E0 l\'aide de pompes"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226483
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_520> <http://www.w3.org/2000/01/rdf-schema#label> "Barges pour l\'acquaculture des mollusques"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226501
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_530> <http://www.w3.org/2000/01/rdf-schema#label> "Navires de p\\u00EAche sportive"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226519
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_540> <http://www.w3.org/2000/01/rdf-schema#label> "Bateaux de p\\u00EAche"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226537
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_550> <http://www.w3.org/2000/01/rdf-schema#label> "Navires-m\\u00E8re"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226626
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_560> <http://www.w3.org/2000/01/rdf-schema#label> "Navires-m\\u00E8re usines"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226644
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_570> <http://www.w3.org/2000/01/rdf-schema#label> "Navires-m\\u00E8re saleurs"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226728
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_580> <http://www.w3.org/2000/01/rdf-schema#label> "Navires-m\\u00E8re pour le thon"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226746
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_590> <http://www.w3.org/2000/01/rdf-schema#label> "Navires-m\\u00E8re p\\u00EAche \\u00E0 la seine par paire"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226837
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_60> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers p\\u00EAche arri\\u00E8re p\\u00EAche fra\\u00EEche"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226856
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_600> <http://www.w3.org/2000/01/rdf-schema#label> "Navires-m\\u00E8re nca"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226874
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_610> <http://www.w3.org/2000/01/rdf-schema#label> "Navires transporteurs de poissons"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226892
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_630> <http://www.w3.org/2000/01/rdf-schema#label> "Navires-h\\u00F4pital"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226910
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_640> <http://www.w3.org/2000/01/rdf-schema#label> "Navires de surveillance et protection"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1226928
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_650> <http://www.w3.org/2000/01/rdf-schema#label> "Navires de recherche sur les p\\u00EAches"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227091
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_660> <http://www.w3.org/2000/01/rdf-schema#label> "Navires \\u00E9coles"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227109
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_670> <http://www.w3.org/2000/01/rdf-schema#label> "Navires associ\\u00E9s \\u00E0 la p\\u00EAche nca"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227127
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_680> <http://www.w3.org/2000/01/rdf-schema#label> "Outres navires non associ\\u00E9s \\u00E0 la p\\u00EAche"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227145
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_70> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers lat\\u00E9raux cong\\u00E9lateurs"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227163
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_700> <http://www.w3.org/2000/01/rdf-schema#label> "Senneurs"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227181
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_710> <http://www.w3.org/2000/01/rdf-schema#label> "Senneurs am\\u00E9ricains"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227199
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_720> <http://www.w3.org/2000/01/rdf-schema#label> "Senneurs europ\\u00E9ens"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227217
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_730> <http://www.w3.org/2000/01/rdf-schema#label> "Autres senneurs"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227235
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_732> <http://www.w3.org/2000/01/rdf-schema#label> "Canneurs de type am\\u00E9ricain"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227253
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_733> <http://www.w3.org/2000/01/rdf-schema#label> "Senneurs \\u00E0 tambour"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227271
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_735> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers usines"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227289
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_736> <http://www.w3.org/2000/01/rdf-schema#label> "Canneurs de type japonais"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227307
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_740> <http://www.w3.org/2000/01/rdf-schema#label> "Ligneurs"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227342
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_750> <http://www.w3.org/2000/01/rdf-schema#label> "Autres ligneurs"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227360
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_760> <http://www.w3.org/2000/01/rdf-schema#label> "Navires associ\\u00E9s \\u00E0 la p\\u00EAche"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227378
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_80> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers lat\\u00E9raux de p\\u00EAche fra\\u00EEche"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227396
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_800> <http://www.w3.org/2000/01/rdf-schema#label> "Navires polyvalents-chalutiers"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227414
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_810> <http://www.w3.org/2000/01/rdf-schema#label> "Navires polyvalents-chalutiers > 12 m"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227432
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_820> <http://www.w3.org/2000/01/rdf-schema#label> "Navires polyvalents-chalutiers < 12 m"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227450
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_830> <http://www.w3.org/2000/01/rdf-schema#label> "Navires polyvalents-non chalutiers"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227468
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_840> <http://www.w3.org/2000/01/rdf-schema#label> "Navires polyvalents-non chalutiers > 12 m"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227486
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_850> <http://www.w3.org/2000/01/rdf-schema#label> "Navires polyvalents-non chalutiers < 12 m"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227504
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_90> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers \\u00E0 tangons"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227522
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_900> <http://www.w3.org/2000/01/rdf-schema#label> "Palangriers \\u00E0 espadon"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227540
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_910> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers cong\\u00E9lateurs nca"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227558
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_920> <http://www.w3.org/2000/01/rdf-schema#label> "Chalutiers de p\\u00EAche fra\\u00EEche nca"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227576
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_930> <http://www.w3.org/2000/01/rdf-schema#label> "Otter trawlers"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227594
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_940> <http://www.w3.org/2000/01/rdf-schema#label> "Pair trawlers"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227612
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_950> <http://www.w3.org/2000/01/rdf-schema#label> "Senneurs \\u00E0 senne de fond (type danois)"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227630
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_960> <http://www.w3.org/2000/01/rdf-schema#label> "Senneurs \\u00E0 senne de fond (type \\u00E9cossais)"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227648
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_970> <http://www.w3.org/2000/01/rdf-schema#label> "Bottom longliners"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227666
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_980> <http://www.w3.org/2000/01/rdf-schema#label> "Palangriers \\u00E0 saumon"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1227684
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .):
+u'<http://www.fao.org/aims/aos/fi/vessels_GT_GRT_ISSCFV.owl#64200_990> <http://www.w3.org/2000/01/rdf-schema#label> "Midwater longliners"@FR <http://aims.fao.org/aos/fi/vessels_GT_GRT_ISSCFV.owl> .'
+
+Error: Triple:1277076
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/73N-C.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/73N-C.rdf> .'
+
+Error: Triple:1454740
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/73Q2.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/73Q2.rdf> .'
+
+Error: Triple:1493923
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/1730-29.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/1730-29.rdf> .'
+
+Error: Triple:1525158
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/33.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/33.rdf> .'
+
+Error: Triple:1583298
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/1310.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/1310.rdf> .'
+
+Error: Triple:1599173
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/73S.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/73S.rdf> .'
+
+Error: Triple:1754729
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @EN <http://data.southampton.ac.uk/building/9595.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/9595.rdf> .'
+

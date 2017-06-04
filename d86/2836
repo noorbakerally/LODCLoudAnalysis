@@ -1,0 +1,9 @@
+http://jucs.org:8181/d2rq/data/Authors/27
+http://jucs.org:8181/d2rq/resource/Authors/27
+http://jucs.org:8181/d2rq/sparql?query=DESCRIBE+%3Cmailto%3Amstrohm%40know-center.at%3E
+http://jucs.org:8181/d2rq/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FAustria%3E
+http://jucs.org:8181/d2rq/resource/Papers/12
+http://jucs.org:8181/d2rq/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fdblp.l3s.de%2Fd2r%2Fresource%2Fauthors%2FMarkus_Strohmaier%3E
+http://jucs.org:8181/d2rq/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fdblp.l3s.de%2F%3Fq%3DMarkus%2BStrohmaier%26search_opt%3DauthorsOnly%26newQuery%3Dyes%26resTableName%3Dquery_resultW9SkYi%26resultsPerPage%3D100%26synt_query_exp%3Dnone%3E
+http://jucs.org:8181/d2rq/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FGraz%3E
+http://jucs.org:8181/d2rq/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fxmlns.com%2Ffoaf%2F0.1%2Fperson%3E

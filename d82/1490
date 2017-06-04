@@ -1,0 +1,5 @@
+http://data.bibbase.org/data/authorship/16515
+http://data.bibbase.org/ontology/#Authorship
+http://data.bibbase.org/pub/7f5a34f99049c4f8f653b0a37062371a
+http://data.bibbase.org/author/olaf-hartig
+http://data.bibbase.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fdata.bibbase.org%2Fontology%2F%23Authorship%3E

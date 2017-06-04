@@ -1,0 +1,78 @@
+Error: Triple:336151
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d74/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d74/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d74/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x2583340> at * <http://reference.data.gov.uk/2011-09-30/doc/department/dfe?_metadata=all,views,formats,execution,bindings&_view=description> .):
+u'_:httpx3Ax2Fx2Freferencex2Edatax2Egovx2Eukx2F2011x2D09x2D30x2Fdocx2Fdepartmentx2Fdfex3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsx26x5Fviewx3Ddescriptionxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Freferencex2Edatax2Egovx2Eukx2F2011x2D09x2D30x2Fdocx2Fdepartmentx2Fdfex3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsx26x5Fviewx3Ddescriptionxxtermx5F* <http://reference.data.gov.uk/2011-09-30/doc/department/dfe?_metadata=all,views,formats,execution,bindings&_view=description> .'
+
+Error: Triple:336309
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d74/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d74/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d74/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Freferencex2Edatax2Egovx2Eukx2F2011x2D09x2D30x2Fdocx2Fdepartmentx2Fdfex3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsx26x5Fviewx3Ddescriptionxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://reference.data.gov.uk/2011-09-30/doc/department/dfe?_metadata=all,views,formats,execution,bindings&_view=description> .'
+
+Error: Triple:336309
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d74/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d74/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d74/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Freferencex2Edatax2Egovx2Eukx2F2011x2D09x2D30x2Fdocx2Fdepartmentx2Fdfex3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsx26x5Fviewx3Ddescriptionxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://reference.data.gov.uk/2011-09-30/doc/department/dfe?_metadata=all,views,formats,execution,bindings&_view=description> .'
+
+Error: Triple:336656
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d74/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d74/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d74/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x2583340> at * <http://reference.data.gov.uk/2011-09-30/doc/department/dfe?_metadata=all,views,formats,execution,bindings&_view=all> .):
+u'_:httpx3Ax2Fx2Freferencex2Edatax2Egovx2Eukx2F2011x2D09x2D30x2Fdocx2Fdepartmentx2Fdfex3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsx26x5Fviewx3Dallxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Freferencex2Edatax2Egovx2Eukx2F2011x2D09x2D30x2Fdocx2Fdepartmentx2Fdfex3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsx26x5Fviewx3Dallxxtermx5F* <http://reference.data.gov.uk/2011-09-30/doc/department/dfe?_metadata=all,views,formats,execution,bindings&_view=all> .'
+
+Error: Triple:336684
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d74/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d74/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d74/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Freferencex2Edatax2Egovx2Eukx2F2011x2D09x2D30x2Fdocx2Fdepartmentx2Fdfex3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsx26x5Fviewx3Dallxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://reference.data.gov.uk/2011-09-30/doc/department/dfe?_metadata=all,views,formats,execution,bindings&_view=all> .'
+
+Error: Triple:336684
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d74/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d74/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d74/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Freferencex2Edatax2Egovx2Eukx2F2011x2D09x2D30x2Fdocx2Fdepartmentx2Fdfex3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsx26x5Fviewx3Dallxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://reference.data.gov.uk/2011-09-30/doc/department/dfe?_metadata=all,views,formats,execution,bindings&_view=all> .'
+

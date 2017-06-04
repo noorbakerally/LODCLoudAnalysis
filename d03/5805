@@ -1,0 +1,1 @@
+http://api.talis.com/1/dir/sparql?query=PREFIX+geo%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2003%2F01%2Fgeo%2Fwgs84_pos%23%3E%0D%0ADESCRIBE+%3Fx%0D%0AWHERE+%7B%0D%0A++%3Fx+geo%3Alat+%3Flat+.%0D%0A%7D&Submit=Submit&api_key=FF01CAFE0019

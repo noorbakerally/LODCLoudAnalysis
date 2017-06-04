@@ -1,0 +1,13 @@
+http://www.inndata.at/semanticweb.rdf
+http://www.inndata.at/semanticweb
+http://www.inndata.at/semanticweb#BusinessEntity
+http://www.inndata.at
+http://www.inndata.at/semanticweb#Offering_1
+http://www.inndata.at/semanticweb#LocationOfSalesOrServiceProvisioning_1
+http://www.inndata.at/semanticweb#TypeAndQuantityNode_1
+http://www.inndata.at/semanticweb#ProductOrServicesSomeInstancesPlaceholder_1
+http://www.inndata.at/semanticweb#OpeningHoursSpecification_Mon_am
+http://www.inndata.at/semanticweb#OpeningHoursSpecification_Tue_am
+http://www.inndata.at/semanticweb#OpeningHoursSpecification_Wed_am
+http://www.inndata.at/semanticweb#OpeningHoursSpecification_Thu_am
+http://www.inndata.at/semanticweb#OpeningHoursSpecification_Fri_am

@@ -1,0 +1,2 @@
+#!/bin/sh
+python getResources.py /export/home/bakerally/testsplit/d91/x91 

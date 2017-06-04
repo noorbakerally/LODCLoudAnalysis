@@ -1,0 +1,9 @@
+http://www.loa-cnr.it/ontologies/DUL.owl#Event
+http://www.loa-cnr.it/ontologies/DUL.owl#Place
+http://www.loa-cnr.it/ontologies/DUL.owl#hasLocation
+http://www.loa-cnr.it/ontologies/DUL.owl#isObservableAt
+http://www.loa-cnr.it/ontologies/DUL.owl#hasRegion
+http://www.loa-cnr.it/ontologies/DUL.owl#Object
+http://www.loa-cnr.it/ontologies/DUL.owl#hasParticipant
+http://www.loa-cnr.it/ontologies/DUL.owl#Agent
+http://www.loa-cnr.it/ontologies/DUL.owl#involvesAgent

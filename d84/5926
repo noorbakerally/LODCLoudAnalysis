@@ -1,0 +1,13 @@
+http://rdfs.org/ns/void#Dataset
+http://rdfs.org/ns/void#Linkset
+http://rdfs.org/resume-rdf/
+http://rdfs.org/sioc/ns#Post
+http://rdfs.org/sioc/types#BlogPost
+http://rdfs.org/sioc/ns#UserAccount
+http://rdfs.org/sioc/types#Weblog
+http://rdfs.org/sioc/ns#Item
+http://rdfs.org/sioc/services#Services
+http://rdfs.org/sioc/ns#User
+http://rdfs.org/sioc/ns#Forum
+http://rdfs.org/sioc/spec/Container
+http://rdfs.org/sioc/spec/Item

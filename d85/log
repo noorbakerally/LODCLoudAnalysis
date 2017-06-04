@@ -1,0 +1,166 @@
+Error: Triple:35431
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 64, in parse
+    self.parseline()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 81, in parseline
+    obj = self.object()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/ntriples.py", line 228, in object
+    objt = self.uriref() or self.nodeid() or self.literal()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/ntriples.py", line 238, in uriref
+    return URI(uri)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/term.py", line 224, in __new__
+    logger.warning('%s does not look like a valid URI, trying to serialize this will break.'%value)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1164, in warning
+    self._log(WARNING, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1271, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1281, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1328, in callHandlers
+    " \"%s\"\n" % self.name)
+IOError: [Errno 5] Input/output error
+
+Error: Triple:38496
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 64, in parse
+    self.parseline()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 81, in parseline
+    obj = self.object()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/ntriples.py", line 228, in object
+    objt = self.uriref() or self.nodeid() or self.literal()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/ntriples.py", line 238, in uriref
+    return URI(uri)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/term.py", line 224, in __new__
+    logger.warning('%s does not look like a valid URI, trying to serialize this will break.'%value)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1164, in warning
+    self._log(WARNING, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1271, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1281, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1328, in callHandlers
+    " \"%s\"\n" % self.name)
+IOError: [Errno 5] Input/output error
+
+Error: Triple:41548
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 64, in parse
+    self.parseline()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 81, in parseline
+    obj = self.object()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/ntriples.py", line 228, in object
+    objt = self.uriref() or self.nodeid() or self.literal()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/ntriples.py", line 238, in uriref
+    return URI(uri)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/term.py", line 224, in __new__
+    logger.warning('%s does not look like a valid URI, trying to serialize this will break.'%value)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1164, in warning
+    self._log(WARNING, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1271, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1281, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1328, in callHandlers
+    " \"%s\"\n" % self.name)
+IOError: [Errno 5] Input/output error
+
+Error: Triple:66306
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 64, in parse
+    self.parseline()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 81, in parseline
+    obj = self.object()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/ntriples.py", line 228, in object
+    objt = self.uriref() or self.nodeid() or self.literal()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/ntriples.py", line 238, in uriref
+    return URI(uri)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/term.py", line 224, in __new__
+    logger.warning('%s does not look like a valid URI, trying to serialize this will break.'%value)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1164, in warning
+    self._log(WARNING, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1271, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1281, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1328, in callHandlers
+    " \"%s\"\n" % self.name)
+IOError: [Errno 5] Input/output error
+
+Error: Triple:108425
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 64, in parse
+    self.parseline()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 81, in parseline
+    obj = self.object()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/ntriples.py", line 228, in object
+    objt = self.uriref() or self.nodeid() or self.literal()
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/ntriples.py", line 238, in uriref
+    return URI(uri)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/term.py", line 224, in __new__
+    logger.warning('%s does not look like a valid URI, trying to serialize this will break.'%value)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1164, in warning
+    self._log(WARNING, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1271, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1281, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1328, in callHandlers
+    " \"%s\"\n" % self.name)
+IOError: [Errno 5] Input/output error
+
+Error: Triple:1840495
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://id.loc.gov/authorities/subjects/sh85117896.rdf> .):
+u'<http://data.bnf.fr/ark:/12148/cb16005350k> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Scafell Pike (GB)"@FR <http://id.loc.gov/authorities/subjects/sh85117896.rdf> .'
+
+Error: Triple:1840783
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat [ \t]*\.[ \t]*(#.*)? at @FR <http://id.loc.gov/authorities/subjects/sh85117896.rdf> .):
+u'<http://data.bnf.fr/ark:/12148/cb16005350k> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scafell Pike (GB)"@FR <http://id.loc.gov/authorities/subjects/sh85117896.rdf> .'
+

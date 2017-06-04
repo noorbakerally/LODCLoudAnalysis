@@ -1,0 +1,4 @@
+#!/bin/bash
+#SBATCH --nodes=4
+#SBATCH --job-name="d79"
+python getResources.py /export/home/bakerally/testsplit/d79/x79

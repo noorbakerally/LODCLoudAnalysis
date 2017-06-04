@@ -1,0 +1,8 @@
+http://linkeddata.uriburner.com/ode/?uri=http://www.wolframalpha.com/input/?i=play+sin%28440t%29
+http://linkeddata.uriburner.com/ode/?uri=http://www.freebase.com/queryeditor?q=%5B%7B%22id%22%3Anull%2C%22name%22%3Anull%2C%22type%22%3A%22%2Fsports%2Fpro_athlete%22%2C%22sports_played_professionally%22%3A%5B%7B%22sport%22%3A%7B%22id%22%3A%22%2Fwikipedia%2Fru_id%2F30265%22%7D%7D%5D%2C%22%2Fpeople%2Fperson%2Fplace_of_birth%22%3A%7B%22id%22%3A%22%2Fen%2Fbrooklyn%22%7D%2C%22key%22%3A%5B%7B%22value%22%3Anull%2C%22namespace%22%3A%22%2Fauthority%2Fgoogle%2Fgoogle_plus%22%7D%5D%7D%5D&autorun=1
+http://linkeddata.uriburner.com/ode/?uri=http://www.wolframalpha.com/input/?i=Pb&dataset=
+http://linkeddata.uriburner.com/ode/?uri=http://www.wolframalpha.com/input/?i=airspeed+of+a+laden+swallow&dataset=
+http://linkeddata.uriburner.com/ode/?uri=http://www.wolframalpha.com/input/?i=What+is+the+weather+in+Boston%3F
+http://linkeddata.uriburner.com/ode/?uri=http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20rss%20where%20url%20in%20(select%20title%20from%20atom%20where%20url%3D%22http%3A%2F%2Fspreadsheets.google.com%2Ffeeds%2Flist%2Fpg_T0Mv3iBwIJoc82J1G8aQ%2Fod6%2Fpublic%2Fbasic%22)%20and%20description%20like%20%22%25Wall%20Street%25%22%20LIMIT%2010%20%7C%20unique(field%3D%22title%22)&diagnostics=true&@Lookup@=&refresh=clean&@Lookup@=&refresh=clean
+http://linkeddata.uriburner.com/sparql
+http://linkeddata.uriburner.com/HtmlPivotViewer/.

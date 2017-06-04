@@ -1,0 +1,6 @@
+http://rdfs.org/sioc/ns#Container
+http://rdfs.org/sioc/types#Weblog
+http://rdfs.org/sioc/types#BlogPost
+http://rdfs.org/ns/void#Dataset
+http://rdfs.org/ns/void#vocabulary
+http://rdfs.org/sioc/ns#User

@@ -1,0 +1,14 @@
+http://rdfs.org/ns/void#Dataset
+http://rdfs.org/sioc/ns#User
+http://rdfs.org/sioc/services#Services
+http://rdfs.org/sioc/types#Wiki
+http://rdfs.org/sioc/ns#Post
+http://rdfs.org/sioc/ns#Usergroup
+http://rdfs.org/sioc/types#Comment
+http://rdfs.org/sioc/types#OfferList
+http://rdfs.org/sioc/types#Likes
+http://rdfs.org/sioc/services#Service
+http://rdfs.org/ns/void#Linkset
+http://rdfs.org/sioc/ns#Space
+http://rdfs.org/sioc/spec/Container
+http://rdfs.org/sioc/spec/Item

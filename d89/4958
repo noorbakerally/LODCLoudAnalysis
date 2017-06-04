@@ -1,0 +1,13 @@
+http://data.ordnancesurvey.co.uk/ontology/50kGazetteer/featureType
+http://data.ordnancesurvey.co.uk/ontology/50kGazetteer/Feature
+http://data.ordnancesurvey.co.uk/ontology/spatialrelations/oneKMGridReference
+http://data.ordnancesurvey.co.uk/ontology/geometry/1kmGridSquare
+http://data.ordnancesurvey.co.uk/ontology/50kGazetteer/Farm
+http://data.ordnancesurvey.co.uk/ontology/admingeo/LondonBoroughWard
+http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward
+http://data.ordnancesurvey.co.uk/id/8000000000000002
+http://data.ordnancesurvey.co.uk/id/8000000000000004
+http://data.ordnancesurvey.co.uk/ontology/50kGazetteer/mapReference
+http://data.ordnancesurvey.co.uk/ontology/maps/OSLandrangerMap
+http://data.ordnancesurvey.co.uk/ontology/50kGazetteer/WaterFeature
+http://data.ordnancesurvey.co.uk/ontology/50kGazetteer/NamedPlace

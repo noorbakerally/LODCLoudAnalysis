@@ -1,0 +1,156 @@
+Error: Triple:248938
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat _:([A-Za-z0-9]*) at _pinyin <http://linkedgeodata.org/data/triplify/node249399394> .):
+u'<http://linkedgeodata.org/triplify/node249399394> <http://www.w3.org/2000/01/rdf-schema#label> "M\\u01CEl\\u00E1ix\\u012By\\u00E0"@zh_pinyin <http://linkedgeodata.org/data/triplify/node249399394> .'
+
+Error: Triple:257475
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat _:([A-Za-z0-9]*) at _pinyin <http://linkedgeodata.org/data/triplify/node424298150> .):
+u'<http://linkedgeodata.org/triplify/node424298150> <http://www.w3.org/2000/01/rdf-schema#label> "Yu\\u00E8n\\u00E1n"@zh_pinyin <http://linkedgeodata.org/data/triplify/node424298150> .'
+
+Error: Triple:258278
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat _:([A-Za-z0-9]*) at _pinyin <http://linkedgeodata.org/data/triplify/node424313582> .):
+u'<http://linkedgeodata.org/triplify/node424313582> <http://www.w3.org/2000/01/rdf-schema#label> "Zh\\u014Dnggu\\u00F3"@zh_pinyin <http://linkedgeodata.org/data/triplify/node424313582> .'
+
+Error: Triple:266616
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat _:([A-Za-z0-9]*) at _pinyin <http://linkedgeodata.org/data/triplify/node424316478> .):
+u'<http://linkedgeodata.org/triplify/node424316478> <http://www.w3.org/2000/01/rdf-schema#label> "Mi\\u01CEndi\\u00E0n"@zh_pinyin <http://linkedgeodata.org/data/triplify/node424316478> .'
+
+Error: Triple:276620
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat _:([A-Za-z0-9]*) at _pinyin <http://linkedgeodata.org/data/triplify/node20953083> .):
+u'<http://linkedgeodata.org/triplify/node20953083> <http://www.w3.org/2000/01/rdf-schema#label> "K\\u0113l\\u00F3ng"@zh_pinyin <http://linkedgeodata.org/data/triplify/node20953083> .'
+
+Error: Triple:277868
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat _:([A-Za-z0-9]*) at _pinyin <http://linkedgeodata.org/data/triplify/node424313428> .):
+u'<http://linkedgeodata.org/triplify/node424313428> <http://www.w3.org/2000/01/rdf-schema#label> "X\\u012Bnji\\u0101p\\u014D"@zh_pinyin <http://linkedgeodata.org/data/triplify/node424313428> .'
+
+Error: Triple:280346
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat _:([A-Za-z0-9]*) at _pinyin <http://linkedgeodata.org/data/triplify/node424311662> .):
+u'<http://linkedgeodata.org/triplify/node424311662> <http://www.w3.org/2000/01/rdf-schema#label> "N\\u00E0m\\u01D0b\\u01D0y\\u00E0"@zh_pinyin <http://linkedgeodata.org/data/triplify/node424311662> .'
+
+Error: Triple:283705
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat _:([A-Za-z0-9]*) at _pinyin <http://linkedgeodata.org/data/triplify/node17807753> .):
+u'<http://linkedgeodata.org/triplify/node17807753> <http://www.w3.org/2000/01/rdf-schema#label> "B\\u0101l\\u00ED"@zh_pinyin <http://linkedgeodata.org/data/triplify/node17807753> .'
+
+Error: Triple:678742
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat _:([A-Za-z0-9]*) at _pinyin <http://linkedgeodata.org/data/triplify/node424297579> .):
+u'<http://linkedgeodata.org/triplify/node424297579> <http://www.w3.org/2000/01/rdf-schema#label> "G\\u0101ngb\\u01D0y\\u00E0"@zh_pinyin <http://linkedgeodata.org/data/triplify/node424297579> .'
+
+Error: Triple:826559
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat _:([A-Za-z0-9]*) at _pinyin <http://linkedgeodata.org/data/triplify/node424310875> .):
+u'<http://linkedgeodata.org/triplify/node424310875> <http://www.w3.org/2000/01/rdf-schema#label> "\\u0100ng\\u0113l\\u0101"@zh_pinyin <http://linkedgeodata.org/data/triplify/node424310875> .'
+
+Error: Triple:945715
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat _:([A-Za-z0-9]*) at _pinyin <http://linkedgeodata.org/data/triplify/node424313751> .):
+u'<http://linkedgeodata.org/triplify/node424313751> <http://www.w3.org/2000/01/rdf-schema#label> "B\\u00F3c\\u00EDw\\u01CEn\\u00E0"@zh_pinyin <http://linkedgeodata.org/data/triplify/node424313751> .'
+
+Error: Triple:1202188
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1492, in parse
+    context.parse(source, publicID=publicID, format=format, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/graph.py", line 1039, in parse
+    parser.parse(source, self, **args)
+  File "/usr/local/lib/python2.7/dist-packages/rdflib-4.2.2-py2.7.egg/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat _:([A-Za-z0-9]*) at _pinyin <http://linkedgeodata.org/data/triplify/node424311658> .):
+u'<http://linkedgeodata.org/triplify/node424311658> <http://www.w3.org/2000/01/rdf-schema#label> "M\\u00F2s\\u0101ngb\\u01D0k\\u00E8"@zh_pinyin <http://linkedgeodata.org/data/triplify/node424311658> .'
+

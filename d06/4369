@@ -1,0 +1,10 @@
+http://www.perceive.net/schemas/relationship/friendOf
+http://www.perceive.net/schemas/relationship/acquaintanceOf
+http://www.perceive.net/schemas/relationship/parentOf
+http://www.perceive.net/schemas/relationship/siblingOf
+http://www.perceive.net/schemas/relationship/childOf
+http://www.perceive.net/schemas/relationship/grandchildOf
+http://www.perceive.net/schemas/relationship/spouseOf
+http://www.perceive.net/schemas/relationship/enemyOf
+http://www.perceive.net/schemas/relationship/antagonistOf
+http://www.perceive.net/schemas/relationship/ambivalentOf

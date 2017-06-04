@@ -1,0 +1,10 @@
+http://rdfs.org/ns/void#Dataset
+http://rdfs.org/sioc/ns#Item
+http://rdfs.org/sioc/ns#Post
+http://rdfs.org/sioc/ns#content
+http://rdfs.org/sioc/ns#Container
+http://rdfs.org/sioc/ns#
+http://rdfs.org/ns/void#subset
+http://rdfs.org/ns/void#exampleResource
+http://rdfs.org/ns/void#LinkSet
+http://rdfs.org/ns/void#triples

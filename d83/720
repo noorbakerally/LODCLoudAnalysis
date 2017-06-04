@@ -1,0 +1,3 @@
+http://ws.adaptivedisclosure.org/axis/services/SearcherWS?wsdl
+http://ws.adaptivedisclosure.org/axis/services/CRFapply?wsdl
+http://ws.adaptivedisclosure.org/axis/services/tokenize?wsdl

@@ -1,0 +1,1391 @@
+Error: Triple:354033
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/person/mbox-4ab98044e228d5622a2f31d17a1af449abcc985f.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D4ab98044e228d5622a2f31d17a1af449abcc985fx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D4ab98044e228d5622a2f31d17a1af449abcc985fx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/person/mbox-4ab98044e228d5622a2f31d17a1af449abcc985f.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:354063
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D4ab98044e228d5622a2f31d17a1af449abcc985fx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/person/mbox-4ab98044e228d5622a2f31d17a1af449abcc985f.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:354063
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D4ab98044e228d5622a2f31d17a1af449abcc985fx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/person/mbox-4ab98044e228d5622a2f31d17a1af449abcc985f.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:436809
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/syllabus/room-feature/005407035/RSC-_DISABLED_ACCESS_-_INSTRUCTOR_(C)_Lift_Not_Egress_Standard_-_Room_Suitable_for_PEEP.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F005407035x2FRSCx2Dx5FDISABLEDx5FACCESSx5Fx2Dx5FINSTRUCTORx5Fx28Cx29x5FLiftx5FNotx5FEgressx5FStandardx5Fx2Dx5FRoomx5FSuitablex5Fforx5FPEEPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F005407035x2FRSCx2Dx5FDISABLEDx5FACCESSx5Fx2Dx5FINSTRUCTORx5Fx28Cx29x5FLiftx5FNotx5FEgressx5FStandardx5Fx2Dx5FRoomx5FSuitablex5Fforx5FPEEPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/005407035/RSC-_DISABLED_ACCESS_-_INSTRUCTOR_(C)_Lift_Not_Egress_Standard_-_Room_Suitable_for_PEEP.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:436843
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F005407035x2FRSCx2Dx5FDISABLEDx5FACCESSx5Fx2Dx5FINSTRUCTORx5Fx28Cx29x5FLiftx5FNotx5FEgressx5FStandardx5Fx2Dx5FRoomx5FSuitablex5Fforx5FPEEPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/005407035/RSC-_DISABLED_ACCESS_-_INSTRUCTOR_(C)_Lift_Not_Egress_Standard_-_Room_Suitable_for_PEEP.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:436843
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F005407035x2FRSCx2Dx5FDISABLEDx5FACCESSx5Fx2Dx5FINSTRUCTORx5Fx28Cx29x5FLiftx5FNotx5FEgressx5FStandardx5Fx2Dx5FRoomx5FSuitablex5Fforx5FPEEPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/005407035/RSC-_DISABLED_ACCESS_-_INSTRUCTOR_(C)_Lift_Not_Egress_Standard_-_Room_Suitable_for_PEEP.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:466577
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/person/mbox-f4a54ee6313ca082f539d2b200efb2b579a21d0f.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2Df4a54ee6313ca082f539d2b200efb2b579a21d0fx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2Df4a54ee6313ca082f539d2b200efb2b579a21d0fx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/person/mbox-f4a54ee6313ca082f539d2b200efb2b579a21d0f.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:466607
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2Df4a54ee6313ca082f539d2b200efb2b579a21d0fx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/person/mbox-f4a54ee6313ca082f539d2b200efb2b579a21d0f.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:466607
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2Df4a54ee6313ca082f539d2b200efb2b579a21d0fx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/person/mbox-f4a54ee6313ca082f539d2b200efb2b579a21d0f.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:490203
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/syllabus/room-feature/000202077/RSC-_VHS.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000202077x2FRSCx2Dx5FVHSx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000202077x2FRSCx2Dx5FVHSx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/000202077/RSC-_VHS.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:490255
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000202077x2FRSCx2Dx5FVHSx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/000202077/RSC-_VHS.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:490256
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000202077x2FRSCx2Dx5FVHSx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/000202077/RSC-_VHS.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:494155
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/syllabus/room-feature/000201035/RSC-_LB.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000201035x2FRSCx2Dx5FLBx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000201035x2FRSCx2Dx5FLBx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/000201035/RSC-_LB.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:494189
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000201035x2FRSCx2Dx5FLBx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/000201035/RSC-_LB.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:494189
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000201035x2FRSCx2Dx5FLBx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/000201035/RSC-_LB.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:591827
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/syllabus/room-feature/006816637/RSC-_PC.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F006816637x2FRSCx2Dx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F006816637x2FRSCx2Dx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/006816637/RSC-_PC.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:591861
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F006816637x2FRSCx2Dx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/006816637/RSC-_PC.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:591862
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F006816637x2FRSCx2Dx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/006816637/RSC-_PC.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:597685
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/syllabus/room-feature/000502011/RSC-_LAP.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000502011x2FRSCx2Dx5FLAPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000502011x2FRSCx2Dx5FLAPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/000502011/RSC-_LAP.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:597719
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000502011x2FRSCx2Dx5FLAPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/000502011/RSC-_LAP.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:597719
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000502011x2FRSCx2Dx5FLAPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/000502011/RSC-_LAP.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:599887
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at @EN <http://data.southampton.ac.uk/building/1603.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/1603.rdf> .'
+
+Error: Triple:607666
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/site/5.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsitex2F5x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsitex2F5x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/site/5.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:607696
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsitex2F5x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/site/5.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:607696
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsitex2F5x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/site/5.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:641711
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/person/mbox-4f7c7216800ff20c24b777dc28e27fc94bfc4345.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D4f7c7216800ff20c24b777dc28e27fc94bfc4345x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D4f7c7216800ff20c24b777dc28e27fc94bfc4345x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/person/mbox-4f7c7216800ff20c24b777dc28e27fc94bfc4345.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:641741
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D4f7c7216800ff20c24b777dc28e27fc94bfc4345x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/person/mbox-4f7c7216800ff20c24b777dc28e27fc94bfc4345.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:641741
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D4f7c7216800ff20c24b777dc28e27fc94bfc4345x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/person/mbox-4f7c7216800ff20c24b777dc28e27fc94bfc4345.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:680478
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/person/mbox-2e6603cb722597e9d32517324ac41dd67fbde119.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D2e6603cb722597e9d32517324ac41dd67fbde119x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D2e6603cb722597e9d32517324ac41dd67fbde119x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/person/mbox-2e6603cb722597e9d32517324ac41dd67fbde119.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:680508
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D2e6603cb722597e9d32517324ac41dd67fbde119x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/person/mbox-2e6603cb722597e9d32517324ac41dd67fbde119.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:680508
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D2e6603cb722597e9d32517324ac41dd67fbde119x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/person/mbox-2e6603cb722597e9d32517324ac41dd67fbde119.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:688047
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at @EN <http://data.southampton.ac.uk/building/72A1-A.rdf> .):
+u'<http://id.southampton.ac.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "University of Southampton"@EN <http://data.southampton.ac.uk/building/72A1-A.rdf> .'
+
+Error: Triple:724755
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/syllabus/room-feature/000404043/RSC-_PC.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000404043x2FRSCx2Dx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000404043x2FRSCx2Dx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/000404043/RSC-_PC.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:724789
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000404043x2FRSCx2Dx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/000404043/RSC-_PC.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:724789
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000404043x2FRSCx2Dx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/000404043/RSC-_PC.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:741058
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/syllabus/room-feature/000201089/RSC-_PC.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000201089x2FRSCx2Dx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000201089x2FRSCx2Dx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/000201089/RSC-_PC.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:741092
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000201089x2FRSCx2Dx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/000201089/RSC-_PC.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:741092
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000201089x2FRSCx2Dx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/000201089/RSC-_PC.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:806094
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/person/mbox-9f2cb50c63c0555bc3b9f9f924c2bf2731add8de.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D9f2cb50c63c0555bc3b9f9f924c2bf2731add8dex2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D9f2cb50c63c0555bc3b9f9f924c2bf2731add8dex2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/person/mbox-9f2cb50c63c0555bc3b9f9f924c2bf2731add8de.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:806124
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D9f2cb50c63c0555bc3b9f9f924c2bf2731add8dex2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/person/mbox-9f2cb50c63c0555bc3b9f9f924c2bf2731add8de.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:806124
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D9f2cb50c63c0555bc3b9f9f924c2bf2731add8dex2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/person/mbox-9f2cb50c63c0555bc3b9f9f924c2bf2731add8de.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:817561
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/person/mbox-10402654719650f923af4d9a206774f411371c82.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D10402654719650f923af4d9a206774f411371c82x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D10402654719650f923af4d9a206774f411371c82x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/person/mbox-10402654719650f923af4d9a206774f411371c82.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:817811
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D10402654719650f923af4d9a206774f411371c82x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/person/mbox-10402654719650f923af4d9a206774f411371c82.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:817811
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D10402654719650f923af4d9a206774f411371c82x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/person/mbox-10402654719650f923af4d9a206774f411371c82.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:906381
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/diary/educationevents.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fdiaryx2Feducationeventsx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fdiaryx2Feducationeventsx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/diary/educationevents.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:906411
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fdiaryx2Feducationeventsx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/diary/educationevents.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:906411
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fdiaryx2Feducationeventsx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/diary/educationevents.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:945784
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/person/mbox-6bfbf9b99d66d5bbd9f81d3c6f26af7b7f86b07b.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D6bfbf9b99d66d5bbd9f81d3c6f26af7b7f86b07bx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D6bfbf9b99d66d5bbd9f81d3c6f26af7b7f86b07bx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/person/mbox-6bfbf9b99d66d5bbd9f81d3c6f26af7b7f86b07b.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:945902
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D6bfbf9b99d66d5bbd9f81d3c6f26af7b7f86b07bx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/person/mbox-6bfbf9b99d66d5bbd9f81d3c6f26af7b7f86b07b.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:945903
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D6bfbf9b99d66d5bbd9f81d3c6f26af7b7f86b07bx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/person/mbox-6bfbf9b99d66d5bbd9f81d3c6f26af7b7f86b07b.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:956697
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/person/mbox-531ce05b1812c8b9120815b48d0101cceb1891fc.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D531ce05b1812c8b9120815b48d0101cceb1891fcx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D531ce05b1812c8b9120815b48d0101cceb1891fcx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/person/mbox-531ce05b1812c8b9120815b48d0101cceb1891fc.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:956772
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D531ce05b1812c8b9120815b48d0101cceb1891fcx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/person/mbox-531ce05b1812c8b9120815b48d0101cceb1891fc.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:956772
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D531ce05b1812c8b9120815b48d0101cceb1891fcx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/person/mbox-531ce05b1812c8b9120815b48d0101cceb1891fc.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1172732
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/person/mbox-be5d673c894b626f03ec0830c454e6b9bab80002.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2Dbe5d673c894b626f03ec0830c454e6b9bab80002x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2Dbe5d673c894b626f03ec0830c454e6b9bab80002x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/person/mbox-be5d673c894b626f03ec0830c454e6b9bab80002.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1172762
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2Dbe5d673c894b626f03ec0830c454e6b9bab80002x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/person/mbox-be5d673c894b626f03ec0830c454e6b9bab80002.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1172762
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2Dbe5d673c894b626f03ec0830c454e6b9bab80002x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/person/mbox-be5d673c894b626f03ec0830c454e6b9bab80002.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1235831
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/syllabus/room-feature/004603001/RSC-_LB.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F004603001x2FRSCx2Dx5FLBx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F004603001x2FRSCx2Dx5FLBx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/004603001/RSC-_LB.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1235865
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F004603001x2FRSCx2Dx5FLBx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/004603001/RSC-_LB.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1235865
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F004603001x2FRSCx2Dx5FLBx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/004603001/RSC-_LB.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1250210
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/syllabus/room-feature/003501005/RSC-_DVD.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F003501005x2FRSCx2Dx5FDVDx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F003501005x2FRSCx2Dx5FDVDx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/003501005/RSC-_DVD.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1250244
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F003501005x2FRSCx2Dx5FDVDx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/003501005/RSC-_DVD.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1250244
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F003501005x2FRSCx2Dx5FDVDx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/003501005/RSC-_DVD.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1261112
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/syllabus/room-feature/006701027/RSC-_VHS.rdf?_metadata=all,views,formats,execution,bindings&_view=all> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F006701027x2FRSCx2Dx5FVHSx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsx26x5Fviewx3Dallxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F006701027x2FRSCx2Dx5FVHSx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsx26x5Fviewx3Dallxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/006701027/RSC-_VHS.rdf?_metadata=all,views,formats,execution,bindings&_view=all> .'
+
+Error: Triple:1261146
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F006701027x2FRSCx2Dx5FVHSx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsx26x5Fviewx3Dallxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/006701027/RSC-_VHS.rdf?_metadata=all,views,formats,execution,bindings&_view=all> .'
+
+Error: Triple:1261146
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F006701027x2FRSCx2Dx5FVHSx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsx26x5Fviewx3Dallxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/006701027/RSC-_VHS.rdf?_metadata=all,views,formats,execution,bindings&_view=all> .'
+
+Error: Triple:1275142
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/person/mbox-aa08b6fcbd06ab31d67f8164a6f0e24619bbbee8.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2Daa08b6fcbd06ab31d67f8164a6f0e24619bbbee8x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2Daa08b6fcbd06ab31d67f8164a6f0e24619bbbee8x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/person/mbox-aa08b6fcbd06ab31d67f8164a6f0e24619bbbee8.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1275319
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2Daa08b6fcbd06ab31d67f8164a6f0e24619bbbee8x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/person/mbox-aa08b6fcbd06ab31d67f8164a6f0e24619bbbee8.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1275357
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2Daa08b6fcbd06ab31d67f8164a6f0e24619bbbee8x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/person/mbox-aa08b6fcbd06ab31d67f8164a6f0e24619bbbee8.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1400858
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/syllabus/room-feature/006501145/RSC-_VHS.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F006501145x2FRSCx2Dx5FVHSx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F006501145x2FRSCx2Dx5FVHSx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/006501145/RSC-_VHS.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1400892
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F006501145x2FRSCx2Dx5FVHSx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/006501145/RSC-_VHS.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1400892
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F006501145x2FRSCx2Dx5FVHSx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/006501145/RSC-_VHS.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1463598
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/person/mbox-27ee74540695fd57411b7614bc1826fd8e2bed4e.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D27ee74540695fd57411b7614bc1826fd8e2bed4ex2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D27ee74540695fd57411b7614bc1826fd8e2bed4ex2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/person/mbox-27ee74540695fd57411b7614bc1826fd8e2bed4e.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1463628
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D27ee74540695fd57411b7614bc1826fd8e2bed4ex2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/person/mbox-27ee74540695fd57411b7614bc1826fd8e2bed4e.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1463628
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D27ee74540695fd57411b7614bc1826fd8e2bed4ex2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/person/mbox-27ee74540695fd57411b7614bc1826fd8e2bed4e.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1488788
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/syllabus/room-feature/002901101/RSC-_BENCH_PC.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F002901101x2FRSCx2Dx5FBENCHx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F002901101x2FRSCx2Dx5FBENCHx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/002901101/RSC-_BENCH_PC.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1488822
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F002901101x2FRSCx2Dx5FBENCHx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/002901101/RSC-_BENCH_PC.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1488822
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F002901101x2FRSCx2Dx5FBENCHx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/002901101/RSC-_BENCH_PC.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1512379
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/person/mbox-722034643d638ca8123426503aacb19152afdc13.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D722034643d638ca8123426503aacb19152afdc13x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D722034643d638ca8123426503aacb19152afdc13x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/person/mbox-722034643d638ca8123426503aacb19152afdc13.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1512409
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D722034643d638ca8123426503aacb19152afdc13x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/person/mbox-722034643d638ca8123426503aacb19152afdc13.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1512409
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D722034643d638ca8123426503aacb19152afdc13x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/person/mbox-722034643d638ca8123426503aacb19152afdc13.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1524209
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/person/mbox-499211f1356ac44f31c51c2a3d2fa752d2d1bea9.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D499211f1356ac44f31c51c2a3d2fa752d2d1bea9x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D499211f1356ac44f31c51c2a3d2fa752d2d1bea9x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/person/mbox-499211f1356ac44f31c51c2a3d2fa752d2d1bea9.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1524397
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D499211f1356ac44f31c51c2a3d2fa752d2d1bea9x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/person/mbox-499211f1356ac44f31c51c2a3d2fa752d2d1bea9.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1524397
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D499211f1356ac44f31c51c2a3d2fa752d2d1bea9x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/person/mbox-499211f1356ac44f31c51c2a3d2fa752d2d1bea9.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1529554
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/syllabus/room-feature/004502040/RSC-_OHP.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F004502040x2FRSCx2Dx5FOHPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F004502040x2FRSCx2Dx5FOHPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/004502040/RSC-_OHP.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1529588
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F004502040x2FRSCx2Dx5FOHPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/004502040/RSC-_OHP.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1529588
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F004502040x2FRSCx2Dx5FOHPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/004502040/RSC-_OHP.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1554915
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/person/mbox-10ca8063fe549174c25121f009ce35f69ff5133a.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D10ca8063fe549174c25121f009ce35f69ff5133ax2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D10ca8063fe549174c25121f009ce35f69ff5133ax2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/person/mbox-10ca8063fe549174c25121f009ce35f69ff5133a.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1554945
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D10ca8063fe549174c25121f009ce35f69ff5133ax2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/person/mbox-10ca8063fe549174c25121f009ce35f69ff5133a.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1554945
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D10ca8063fe549174c25121f009ce35f69ff5133ax2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/person/mbox-10ca8063fe549174c25121f009ce35f69ff5133a.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1574500
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/person/mbox-772bedc1db8248d91e2d515fc05bac81896b8c1c.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D772bedc1db8248d91e2d515fc05bac81896b8c1cx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D772bedc1db8248d91e2d515fc05bac81896b8c1cx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/person/mbox-772bedc1db8248d91e2d515fc05bac81896b8c1c.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1574530
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D772bedc1db8248d91e2d515fc05bac81896b8c1cx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/person/mbox-772bedc1db8248d91e2d515fc05bac81896b8c1c.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1574530
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2D772bedc1db8248d91e2d515fc05bac81896b8c1cx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/person/mbox-772bedc1db8248d91e2d515fc05bac81896b8c1c.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1869477
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/syllabus/room-feature/008502207/RSC-_LAP.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F008502207x2FRSCx2Dx5FLAPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F008502207x2FRSCx2Dx5FLAPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/008502207/RSC-_LAP.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1869551
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F008502207x2FRSCx2Dx5FLAPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/008502207/RSC-_LAP.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1869574
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F008502207x2FRSCx2Dx5FLAPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/008502207/RSC-_LAP.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1897731
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/syllabus/room-feature/008502213/RSC-_OHP.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F008502213x2FRSCx2Dx5FOHPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F008502213x2FRSCx2Dx5FOHPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/008502213/RSC-_OHP.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1897765
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F008502213x2FRSCx2Dx5FOHPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/008502213/RSC-_OHP.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1897765
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F008502213x2FRSCx2Dx5FOHPx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/008502213/RSC-_OHP.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1920586
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/pressinfo/subject/ImageAnalysis.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpressinfox2Fsubjectx2FImageAnalysisx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpressinfox2Fsubjectx2FImageAnalysisx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/pressinfo/subject/ImageAnalysis.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1920618
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpressinfox2Fsubjectx2FImageAnalysisx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/pressinfo/subject/ImageAnalysis.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1920618
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpressinfox2Fsubjectx2FImageAnalysisx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/pressinfo/subject/ImageAnalysis.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1921069
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/syllabus/room-feature/000404005/RSC-_PC.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000404005x2FRSCx2Dx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000404005x2FRSCx2Dx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/syllabus/room-feature/000404005/RSC-_PC.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1921103
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000404005x2FRSCx2Dx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/syllabus/room-feature/000404005/RSC-_PC.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1921103
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fsyllabusx2Froomx2Dfeaturex2F000404005x2FRSCx2Dx5FPCx2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/syllabus/room-feature/000404005/RSC-_PC.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1977518
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Failed to eat <_sre.SRE_Pattern object at 0x275c340> at * <http://data.southampton.ac.uk/person/mbox-dc8571a7faaa6d762c102662c798b7d37f6eaff8.rdf?_metadata=all,views,formats,execution,bindings> .):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2Ddc8571a7faaa6d762c102662c798b7d37f6eaff8x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxex78ecution <http://purl.org/linked-data/api/vocab#termBinding> _:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2Ddc8571a7faaa6d762c102662c798b7d37f6eaff8x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://data.southampton.ac.uk/person/mbox-dc8571a7faaa6d762c102662c798b7d37f6eaff8.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1977548
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2Ddc8571a7faaa6d762c102662c798b7d37f6eaff8x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#label> "*" <http://data.southampton.ac.uk/person/mbox-dc8571a7faaa6d762c102662c798b7d37f6eaff8.rdf?_metadata=all,views,formats,execution,bindings> .'
+
+Error: Triple:1977548
+Traceback (most recent call last):
+  File "getResources.py", line 165, in processTriple
+    g.parse(data=line,format="nquads")
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1462, in parse
+    location=location, file=file, data=data, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/graph.py", line 1035, in parse
+    parser.parse(source, self, **args)
+  File "/export/home/bakerally/testsplit/d79/rdflib/plugins/parsers/nquads.py", line 66, in parse
+    raise ParseError("Invalid line (%s):\n%r" % (msg, __line))
+ParseError: Invalid line (Predicate must be uriref):
+u'_:httpx3Ax2Fx2Fdatax2Esouthamptonx2Eacx2Eukx2Fpersonx2Fmbox78x2Ddc8571a7faaa6d762c102662c798b7d37f6eaff8x2Erdfx3Fx5Fmetadatax3Dallx2Cviewsx2Cformatsx2Cex78ecutionx2Cbindingsxxtermx5F* <http://purl.org/linked-data/api/vocab#property> <http://purl.org/linked-data/api/vocab#allProperties> <http://data.southampton.ac.uk/person/mbox-dc8571a7faaa6d762c102662c798b7d37f6eaff8.rdf?_metadata=all,views,formats,execution,bindings> .'
+

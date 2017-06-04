@@ -1,0 +1,16 @@
+http://rdf.geospecies.org/ont/geospecies#Country
+http://rdf.geospecies.org/ont/geospecies#GeoSpecies_Knowledge_Base_Project
+http://rdf.geospecies.org/ont/people.owl#Peter_J_DeVries
+http://rdf.geospecies.org/ont/geospecies#FamilyConcept
+http://rdf.geospecies.org/ont/geospecies#Bio2RDFtaxon
+http://rdf.geospecies.org/ont/geospecies#UniprotTaxon
+http://rdf.geospecies.org/ont/geospecies#Ubio_LSID
+http://rdf.geospecies.org/ont/geospecies#BugGuidePage
+http://rdf.geospecies.org/ont/geospecies#SpeciesConcept
+http://rdf.geospecies.org/ont/geospecies#NomenclaturalCode_ICZN
+http://rdf.geospecies.org/ont/geospecies#State
+http://rdf.geospecies.org/ont/geospecies#Continent
+http://rdf.geospecies.org/ont/geospecies#FreebaseGUID
+http://rdf.geospecies.org/ont/geospecies#DBpediaResource
+http://rdf.geospecies.org/ont/geospecies#USDA_Growth_Habit_Subshrub
+http://rdf.geospecies.org/ont/geospecies#NomenclaturalCode_ICBN

@@ -1,0 +1,3 @@
+http://gnode1.mib.man.ac.uk:8080/FullTextWebServices/TextCleanerService?wsdl
+http://gnode1.mib.man.ac.uk:8080/FullTextWebServices/SentenceSplitterService?wsdl
+http://gnode1.mib.man.ac.uk:8080/FullTextWebServices/PdfToTextService?wsdl

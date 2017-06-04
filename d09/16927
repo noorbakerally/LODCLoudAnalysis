@@ -1,0 +1,12 @@
+http://rdfs.org/ns/void#Dataset
+http://rdfs.org/sioc/types#Weblog
+http://rdfs.org/sioc/types#BlogPost
+http://rdfs.org/sioc/types#Wiki
+http://rdfs.org/sioc/types#Comment
+http://rdfs.org/sioc/ns#User
+http://rdfs.org/sioc/services#Services
+http://rdfs.org/sioc/ns#Space
+http://rdfs.org/sioc/ns#WebLog
+http://rdfs.org/sioc/types#Likes
+http://rdfs.org/sioc/services#Service
+http://rdfs.org/sioc/types#OfferList

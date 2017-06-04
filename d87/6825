@@ -1,0 +1,17 @@
+http://www.w3.org/2002/07/owl#Thing
+http://www.w3.org/1999/02/22-rdf-syntax-ns#Property
+http://www.w3.org/2004/02/skos/core#Concept
+http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1
+http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2
+http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1
+http://www.w3.org/2006/03/wn/wn20/instances/synset-soccer_player-noun-1
+http://www.w3.org/2006/03/wn/wn20/instances/synset-musician-noun-1
+http://www.w3.org/2006/03/wn/wn20/instances/synset-railway-noun-1
+http://www.w3.org/2006/03/wn/wn20/instances/synset-company-noun-1
+http://www.w3.org/2006/03/wn/wn20/instances/synset-tennis_player-noun-1
+http://www.w3.org/2002/07/owl#DatatypeProperty
+http://www.w3.org/2001/XMLSchema#float
+http://www.w3.org/2006/03/wn/wn20/instances/synset-language-noun-1
+http://www.w3.org/2001/XMLSchema#string
+http://www.w3.org/2006/03/wn/wn20/instances/synset-scientist-noun-1
+http://www.w3.org/2006/03/wn/wn20/instances/synset-software-noun-1

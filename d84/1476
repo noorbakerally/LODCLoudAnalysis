@@ -1,0 +1,16 @@
+http://www.wsmo.org/ns/wsmo-lite#hasOperation
+http://www.wsmo.org/ns/wsmo-lite#Service
+http://www.wsmo.org/ns/wsmo-lite#Operation
+http://www.wsmo.org/ns/wsmo-lite#hasInputMessage
+http://www.wsmo.org/ns/wsmo-lite#Message
+http://www.wsmo.org/ns/wsmo-lite#hasOutputMessage
+http://www.wsmo.org/ns/hrests#hasAddress
+http://www.wsmo.org/ns/hrests#URITemplate
+http://www.wsmo.org/ns/hrests#hasMethod
+http://www.wsmo.org/ns/wsmo-lite#
+http://www.wsmo.org/ns/wsmo-lite#FunctionalClassificationRoot
+http://www.wsmo.org/ns/wsmo-lite#NonfunctionalParameter
+http://www.wsmo.org/ns/wsmo-lite#Condition
+http://www.wsmo.org/ns/wsmo-lite#Effect
+http://www.wsmo.org/ns/wsmo-lite#Ontology
+http://www.wsmo.org/ns/wsmo-lite#usesOntology

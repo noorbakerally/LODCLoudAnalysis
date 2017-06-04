@@ -1,0 +1,14 @@
+http://api.metacpan.org/source/MSERGEANT/Pod-SAX-0.14/pod2axpoint.xsl
+http://api.metacpan.org/source/KJETILK/Test-RDF-1.16/meta/changes.ttl
+http://api.metacpan.org/source/KJETILK/Test-RDF-1.16/meta/makefile.ttl
+http://api.metacpan.org/source/KJETILK/Test-RDF-1.16/meta/people.ttl
+http://api.metacpan.org/source/KJETILK/Test-RDF-1.16/meta/project.ttl
+http://api.metacpan.org/source/RURBAN/DBD-SQLite2-0.36/sqliteInt.h
+http://api.metacpan.org/source/RURBAN/DBD-SQLite2-0.36/vdbeInt.h
+http://api.metacpan.org/source/KJETILK/RDF-RDFa-Template-0.05/Changes.ttl
+http://api.metacpan.org/source/KJETILK/RDF-RDFa-Template-0.05/lib/RDF/RDFa/Template.pm
+http://api.metacpan.org/source/KJETILK/RDF-RDFa-Template-0.05/lib/RDF/RDFa/Template/Document.pm
+http://api.metacpan.org/source/KJETILK/RDF-RDFa-Template-0.05/lib/RDF/RDFa/Template/SAXFilter.pm
+http://api.metacpan.org/source/KJETILK/RDF-RDFa-Template-0.05/lib/RDF/RDFa/Template/SimpleQuery.pm
+http://api.metacpan.org/source/KJETILK/RDF-RDFa-Template-0.05/lib/RDF/RDFa/Template/Unit.pm
+http://api.metacpan.org/source/MSERGEANT/XML-XPath-1.13/t/rdf.t

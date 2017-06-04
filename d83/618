@@ -1,0 +1,3 @@
+http://node255.broad.mit.edu:6060/wsrf/services/cagrid/PreprocessDatasetSTATMLService?wsdl
+http://node255.broad.mit.edu:6060/wsrf/services/cagrid/SVM?wsdl
+http://node255.broad.mit.edu:6060/wsrf/services/cagrid/KNN?wsdl

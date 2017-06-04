@@ -1,0 +1,11 @@
+http://www.csl.sri.com/users/denker/owl-sec/bibtex.owl#Bibtex_Entry
+http://www.csl.sri.com/users/denker/owl-sec/bibtex-entries.owl#SMIME-Ref
+http://www.csl.sri.com/users/denker/owl-sec/bibtex-entries.owl#OpenPGP-Ref
+http://www.csl.sri.com/users/denker/owl-sec/bibtex-entries.owl#XML-ENC-Ref
+http://www.csl.sri.com/users/denker/owl-sec/bibtex-entries.owl#XML-DSIG-Ref
+http://www.csl.sri.com/users/denker/owl-sec/bibtex-entries.owl#XACML-Ref
+http://www.csl.sri.com/users/denker/owl-sec/bibtex-entries.owl#SAML-Ref
+http://www.csl.sri.com/users/denker/owl-sec/bibtex-entries.owl#HTTP-Ref
+http://www.csl.sri.com/users/denker/owl-sec/bibtex-entries.owl#SOAP-Ref
+http://www.csl.sri.com/users/denker/owl-sec/bibtex-entries.owl#Kerberos-Ref
+http://www.csl.sri.com/users/denker/owl-sec/bibtex-entries.owl#XKMS-Ref

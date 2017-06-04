@@ -1,0 +1,2 @@
+http://ws.audioscrobbler.com/2.0/?method=artist.getInfo&artist=g%C3%BAdar&api_key=3993920ee83ce2d266fd8c9408bf4971
+http://ws.audioscrobbler.com/2.0/?method=artist.getEvents&artist=g%C3%BAdar&api_key=3993920ee83ce2d266fd8c9408bf4971

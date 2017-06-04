@@ -1,0 +1,5 @@
+http://www.opengis.net/gml/_Feature
+http://www.opengis.net/ont/geosparql#SpatialObject
+http://www.opengis.net/ont/geosparql#sfTouches
+http://www.opengis.net/ont/geosparql#sfContains
+http://www.opengis.net/ont/geosparql#sfWithin

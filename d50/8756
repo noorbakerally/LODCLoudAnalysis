@@ -1,0 +1,2 @@
+http://thestory.org/archive/search_media?review_state=published&start.query:record:list:date=2008-06-09%2023:59:59&start.range:record=max&end.query:record:list:date=2008-06-09%2000:00:00&end.range:record=min&month:int=6&year:int=2008
+http://thestory.org/archive/search_media?review_state=published&start.query:record:list:date=2008-05-15%2023:59:59&start.range:record=max&end.query:record:list:date=2008-05-15%2000:00:00&end.range:record=min&month:int=5&year:int=2008

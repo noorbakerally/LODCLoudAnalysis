@@ -1,0 +1,16 @@
+http://iserve.kmi.open.ac.uk
+http://iserve.kmi.open.ac.uk/ns/msm#
+http://iserve.kmi.open.ac.uk/ns/msm#MessageContent
+http://iserve.kmi.open.ac.uk/ns/msm#MessagePart
+http://iserve.kmi.open.ac.uk/ns/msm#Operation
+http://iserve.kmi.open.ac.uk/ns/msm#Service
+http://iserve.kmi.open.ac.uk/ns/msm#hasInput
+http://iserve.kmi.open.ac.uk/ns/msm#hasInputFault
+http://iserve.kmi.open.ac.uk/ns/msm#hasMandatoryPart
+http://iserve.kmi.open.ac.uk/ns/msm#hasPart
+http://iserve.kmi.open.ac.uk/ns/msm#hasName
+http://iserve.kmi.open.ac.uk/ns/msm#hasOperation
+http://iserve.kmi.open.ac.uk/ns/msm#hasOptionalPart
+http://iserve.kmi.open.ac.uk/ns/msm#hasOutput
+http://iserve.kmi.open.ac.uk/ns/msm#hasOutputFault
+http://iserve.kmi.open.ac.uk/ns/msm#hasPartTransitive

@@ -1,0 +1,16 @@
+http://purl.oclc.org/SADI/LSRN/
+http://purl.oclc.org/SADI/LSRN/KEGG_Record
+http://purl.oclc.org/SADI/LSRN/taxon_Record
+http://purl.oclc.org/SADI/LSRN/UniProt_Record
+http://purl.oclc.org/SADI/LSRN/NCBI_NM_Record
+http://purl.oclc.org/SADI/LSRN/GeneID_Record
+http://purl.oclc.org/SADI/LSRN/NCBI_NP_Record
+http://purl.oclc.org/SADI/LSRN/DrugBank_Record
+http://purl.oclc.org/SADI/LSRN/PDB_Record
+http://purl.oclc.org/SADI/LSRN/GO_Record
+http://purl.oclc.org/SADI/LSRN/KEGG_PATHWAY_Record
+http://purl.oclc.org/SADI/LSRN/KEGG_COMPOUND_Record
+http://purl.oclc.org/SADI/LSRN/GI_Record
+http://purl.oclc.org/SADI/LSRN/DragonDB_Allele_Record
+http://purl.oclc.org/SADI/LSRN_Entity/Biological_Thing
+http://purl.oclc.org/SADI/LSRN_ENTITY/Biological_Thing

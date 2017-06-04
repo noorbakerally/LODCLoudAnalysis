@@ -1,0 +1,3 @@
+http://kulturarvsdata.se/ksamsok/api?stylesheet=&x-api=test&method=search&hitsPerPage=50&query=item%3D%22Docka%22+and+create_toTime%3E%3D1700+and+create_fromTime%3C%3D1799
+http://kulturarvsdata.se/NOMU/object/NM0151866
+http://kulturarvsdata.se/

@@ -1,0 +1,5 @@
+http://chem2bio2rdf.org/uniprot/data/uniprot/P03176
+http://chem2bio2rdf.org/uniprot/resource/uniprot/P03176
+http://chem2bio2rdf.org/uniprot/resource/uniprot
+http://chem2bio2rdf.org/uniprot/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fbio2rdf.org%2Funiprot%3AP03176%3E
+http://chem2bio2rdf.org/uniprot/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.uniprot.org%2FP03176%3E

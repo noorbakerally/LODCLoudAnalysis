@@ -1,0 +1,16 @@
+http://packages.qa.debian.org/a/apache2.ttl
+http://packages.qa.debian.org/apache2#project
+http://packages.qa.debian.org/apache2#apache2_2.2.16-6+squeeze11
+http://packages.qa.debian.org/#released
+http://packages.qa.debian.org/apache2#apache2_2.2.16-6+squeeze12
+http://packages.qa.debian.org/apache2#apache2_2.2.22-13+deb7u1
+http://packages.qa.debian.org/apache2#apache2_2.4.9-1
+http://packages.qa.debian.org/apache2#debiansrc_2.4.9-1
+http://packages.qa.debian.org/apache2#upstreamsrc_2.4.9
+http://packages.qa.debian.org/apache2#apache2_2.4.9-1.dsc
+http://packages.qa.debian.org/apache2#apache2_2.4.9-1.debian.tar.xz
+http://packages.qa.debian.org/#checksumAlgorithm_md5sum
+http://packages.qa.debian.org/apache2#apache2_2.4.9.orig.tar.bz2
+http://packages.qa.debian.org/apache2
+http://packages.qa.debian.org/apache2#upstream
+http://packages.qa.debian.org/#snapshot_or_release

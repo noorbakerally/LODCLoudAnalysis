@@ -1,0 +1,5 @@
+http://dbk-ed.mib.man.ac.uk:8080/HumanAffymapper/services/HumanAffymapper?wsdl
+http://dbk-ed.mib.man.ac.uk:8080/axis/services/srs_links.ebi_srslinks
+http://dbk-ed.mib.man.ac.uk:8080/axis/services/srs_ebi_uniprotsequence.ebi_uniprot
+http://dbk-ed.mib.man.ac.uk:8080/axis/services/srs_ebi_literature.ebi_medline2007
+http://dbk-ed.mib.man.ac.uk:8080/axis/services/srs_ebi_dnasequence.ebi_embl

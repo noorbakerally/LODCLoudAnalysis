@@ -1,0 +1,3 @@
+http://diwis.imis.athena-innovation.gr:8181/resource/mchange/43601
+http://diwis.imis.athena-innovation.gr:8181/data/mchange/43601
+http://diwis.imis.athena-innovation.gr:8181/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fdiwis.imis.athena-innovation.gr%2FDIANAterms.rdf%23matureDeleteChange%3E

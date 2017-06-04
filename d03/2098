@@ -1,0 +1,17 @@
+http://www.cidoc-crm.org/rdfs/cidoc-crm#E39.Actor
+http://www.cidoc-crm.org/rdfs/cidoc-crm#E4.Period
+http://www.cidoc-crm.org/rdfs/cidoc-crm#E89.Propositional_Object
+http://www.cidoc-crm.org/rdfs/cidoc-crm#E18.Physical_Thing
+http://www.cidoc-crm.org/rdfs/cidoc-crm#E53.Place
+http://www.cidoc-crm.org/rdfs/cidoc-crm#E52.Time-Span
+http://www.cidoc-crm.org/rdfs/cidoc-crm#P129F.is_about
+http://www.cidoc-crm.org/rdfs/cidoc-crm#P55F.has_current_location
+http://www.cidoc-crm.org/rdfs/cidoc-crm#P7F.took_place_at
+http://www.cidoc-crm.org/rdfs/cidoc-crm#P2F.has_type
+http://www.cidoc-crm.org/rdfs/cidoc-crm#P67F.refers_to
+http://www.cidoc-crm.org/rdfs/cidoc-crm#P138F.represents
+http://www.cidoc-crm.org/rdfs/cidoc-crm#P130F.shows_features_of
+http://www.cidoc-crm.org/rdfs/cidoc-crm#P4F.has_time-span
+http://www.cidoc-crm.org/rdfs/cidoc-crm#P128F.carries
+http://www.cidoc-crm.org/rdfs/cidoc-crm#P12B.was_present_at
+http://www.cidoc-crm.org/rdfs/cidoc-crm#P12F.occurred_in_the_presence_of

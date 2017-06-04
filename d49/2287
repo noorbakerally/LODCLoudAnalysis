@@ -1,0 +1,3 @@
+http://memory.loc.gov/cgi-bin/query/r?intldl/awkbbib:@OR(@field(DOCID+@lit(awkb012356)))
+http://memory.loc.gov/cgi-bin/query/h?ammem/tccc:@field(NUMBER+@band(iauchau++massing+1))
+http://memory.loc.gov/cgi-bin/query/r?ammem/vv:@field(SUBJ+@band(Stein+Gertrude))

@@ -1,0 +1,7 @@
+http://packages.debian.org/src:libauthcas-perl
+http://packages.debian.org/src:phpunit
+http://packages.debian.org/src:fusionforge
+http://packages.debian.org/src:php-arc
+http://packages.debian.org/src:libgraphite-php
+http://packages.debian.org/src:php-cas
+http://packages.debian.org/src:php-symfony-yaml

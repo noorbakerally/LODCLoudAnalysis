@@ -1,0 +1,5 @@
+http://worldcat.org/oclc/750951360
+http://worldcat.org/webservices/catalog/search/worldcat/opensearch?q={searchTerms}&start={startIndex?}&count={resultSize?}&format=atom&wskey={wcapi:wskey}&cformat={wcapi:cformat?}
+http://worldcat.org/webservices/catalog/search/worldcat/opensearch?q={searchTerms}&start={startIndex?}&count={resultSize?}&format=rss&wskey={wcapi:wskey}&cformat={wcapi:cformat?}
+http://worldcat.org/webservices/catalog/opensearch.description.xml
+http://worldcat.org/identities/lccn-n78-15294

@@ -1,0 +1,5 @@
+http://node255.broadinstitute.org:6060/wsrf/services/cagrid/PCA?wsdl
+http://node255.broadinstitute.org:6060/wsrf/services/cagrid/PCAContext?wsdl
+http://node255.broadinstitute.org:6060/wsrf/services/cagrid/SVM?wsdl
+http://node255.broadinstitute.org:6060/wsrf/services/cagrid/KNN?wsdl
+http://node255.broadinstitute.org:6060/wsrf/services/cagrid/PreprocessDatasetSTATMLService?wsdl

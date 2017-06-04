@@ -1,0 +1,14 @@
+http://metadataregistry.org/uri/schema/RDARelationshipsGR2/founder
+http://metadataregistry.org/uri/schema/RDARelationshipsGR2/hierarchicalSuperior
+http://metadataregistry.org/uri/schema/RDARelationshipsGR2/familyMember
+http://metadataregistry.org/uri/schema/RDARelationshipsGR2/predecessor
+http://metadataregistry.org/uri/schema/RDARelationshipsGR2/alternateIdentity
+http://metadataregistry.org/uri/schema/RDARelationshipsGR2/relatedCorporateBody
+http://metadataregistry.org/uri/schema/RDARelationshipsGR2/relatedFamily
+http://metadataregistry.org/uri/schema/RDARelationshipsGR2/relatedPerson
+http://metadataregistry.org/uri/schema/RDARelationshipsGR2/sponsor
+http://metadataregistry.org/uri/schema/RDARelationshipsGR2/successor
+http://metadataregistry.org/uri/RegStatus/1001
+http://metadataregistry.org/uri/profile/RegAp/status
+http://metadataregistry.org/uri/profile/RegAp/name
+http://metadataregistry.org/uri/RegStatus/1002

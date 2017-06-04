@@ -1,0 +1,10 @@
+http://purl.oclc.org/NET/ssnx/ssn#observedBy
+http://purl.oclc.org/NET/ssnx/ssn#inDeployment
+http://purl.oclc.org/NET/ssnx/etccdi#max1DayPrecipitationAmount
+http://purl.oclc.org/NET/ssnx/ssn#deploymentProcessPart
+http://purl.oclc.org/NET/ssnx/ssn#deployedOnPlatform
+http://purl.oclc.org/NET/ssnx/ssn#hasSubSystem
+http://purl.oclc.org/NET/ssnx/ssn#System
+http://purl.oclc.org/NET/ssnx/ssn#Platform
+http://purl.oclc.org/NET/ssnx/ssn
+http://purl.oclc.org/NET/ssnx/etccdi

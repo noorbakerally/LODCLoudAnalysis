@@ -1,0 +1,14 @@
+http://bibleontology.com/pathdata/facet:defaultFacets/class/Biblical_Figures
+http://bibleontology.com/class/Biblical_Figures
+http://bibleontology.com/property/figuresInBook
+http://bibleontology.com/property/hasChildren
+http://bibleontology.com/property/FiguresRelatedWithWork
+http://bibleontology.com/property/hasParents
+http://bibleontology.com/property/hasRoles
+http://bibleontology.com/property/hasSiblings
+http://bibleontology.com/property/hasSpouse
+http://bibleontology.com/property/isBornIn
+http://bibleontology.com/property/relatedPeople
+http://bibleontology.com/property/gender
+http://bibleontology.com/property/isRelatedInEvent
+http://bibleontology.com/property/writes

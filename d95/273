@@ -1,0 +1,9 @@
+http://eagle-i.org/ont/repo/1.0/Person
+http://eagle-i.org/ont/repo/1.0/Agent
+http://eagle-i.org/ont/app/1.0/Agent
+http://eagle-i.org/ont/app/1.0/Person
+http://eagle-i.org/ont/app/1.0/has_part_construct_insert
+http://eagle-i.org/ont/app/1.0/synonym
+http://eagle-i.org/ont/repo/1.0/WFS_Published
+http://eagle-i.org/ont/repo/1.0/hasWorkflowState
+http://eagle-i.org/ont/app/1.0/resource_description

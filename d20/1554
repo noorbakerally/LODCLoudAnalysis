@@ -1,0 +1,8 @@
+http://demo.openlinksw.com/tutorial/rdf/rd_s_1/rd_s_1.vsp
+http://demo.openlinksw.com/tutorial/rdf/
+http://demo.openlinksw.com/sparql
+http://demo.openlinksw.com/tutorial/rdf/ri_s_1/ri_s_1.vsp
+http://demo.openlinksw.com/bank
+http://demo.openlinksw.com/sparql?default-graph-uri=http%3A%2F%2Flocalhost%3A80%2Ftutorial%2Fhosting%2Fho_s_30%2FWebCalendar%2Ftools%2Fsummary.txt&should-sponge=soft&query=select+*+where+%7B+%3Fs+%3Fp+%3Fo+.+%7D&format=text%2Fhtml
+http://demo.openlinksw.com/about/html/http://demo.openlinksw.com/Northwind/Customer/ALFKI
+http://demo.openlinksw.com/DAV/JS/rdfbrowser/index.html

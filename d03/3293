@@ -1,0 +1,13 @@
+http://www.jarltech.de/semanticweb.rdf
+http://www.jarltech.de/semanticweb
+http://www.jarltech.de/semanticweb#BusinessEntity
+http://www.jarltech.de
+http://www.jarltech.de/semanticweb#Offering_1
+http://www.jarltech.de/semanticweb#LocationOfSalesOrServiceProvisioning_1
+http://www.jarltech.de/semanticweb#TypeAndQuantityNode_1
+http://www.jarltech.de/semanticweb#ProductOrServicesSomeInstancesPlaceholder_1
+http://www.jarltech.de/semanticweb#OpeningHoursSpecification_Mon_am
+http://www.jarltech.de/semanticweb#OpeningHoursSpecification_Tue_am
+http://www.jarltech.de/semanticweb#OpeningHoursSpecification_Wed_am
+http://www.jarltech.de/semanticweb#OpeningHoursSpecification_Thu_am
+http://www.jarltech.de/semanticweb#OpeningHoursSpecification_Fri_am

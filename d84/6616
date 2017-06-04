@@ -1,0 +1,11 @@
+http://www.ebi.ac.uk/biomodels/models-main/publ/
+http://www.ebi.ac.uk/biomodels-main/
+http://www.ebi.ac.uk/ena/data/view/%s
+http://www.ebi.ac.uk/Tools/dbfetch/dbfetch?db=ipi&id=%s
+http://www.ebi.ac.uk/intact/pages/interactions/interactions.xhtml?query=%s
+http://www.ebi.ac.uk/pride/searchSummary.do?queryTypeSelected=identification%20accession%20number&identificationAccessionNumber=%s
+http://www.ebi.ac.uk/arrayexpress/genes/uniprot/%s
+http://www.ebi.ac.uk/interpro/
+http://www.ebi.ac.uk/Thornton
+http://www.ebi.ac.uk/Tools/clustalw2/index.html
+http://www.ebi.ac.uk/thornton-srv/software/PROCHECK/

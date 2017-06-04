@@ -1,0 +1,17 @@
+http://ec.europa.eu/research/fp6/index_en.cfm
+http://ec.europa.eu/information_society/activities/egovernment/research/fp6_projects/index_en.htm
+http://ec.europa.eu/index_en.htm
+http://ec.europa.eu/eurostat/ramon/ontologies/geographic.rdf
+http://ec.europa.eu/eurostat/ramon/ontologies/geographic.rdf#Region
+http://ec.europa.eu/eurostat/ramon/ontologies/geographic.rdf#Country
+http://ec.europa.eu/eurostat/ramon/ontologies/geographic.rdf#NUTSRegion
+http://ec.europa.eu/eurostat/ramon/ontologies/geographic.rdf#LAURegion
+http://ec.europa.eu/eurostat/ramon/ontologies/geographic.rdf#code
+http://ec.europa.eu/eurostat/ramon/ontologies/geographic.rdf#regionCode
+http://ec.europa.eu/eurostat/ramon/ontologies/geographic.rdf#inScheme
+http://ec.europa.eu/eurostat/ramon/ontologies/geographic.rdf#edition
+http://ec.europa.eu/eurostat/ramon/ontologies/geographic.rdf#level
+http://ec.europa.eu/eurostat/ramon/ontologies/geographic.rdf#hasParentRegion
+http://ec.europa.eu/eurostat/ramon/ontologies/geographic.rdf#hasSubRegion
+http://ec.europa.eu/eurostat/ramon/ontologies/geographic.rdf#name
+http://ec.europa.eu/eurostat/ramon/ontologies/geographic.rdf#protocolOrder
